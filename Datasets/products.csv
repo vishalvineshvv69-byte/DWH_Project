@@ -1,0 +1,84 @@
+product_id,product_name,category,brand,list_price,active_flag
+5001,Wireless Mouse,Electronics,ByteCraft,3409,1
+5002,Bluetooth Speaker,Electronics,VoltEdge,4799,1
+5003,USB-C Fast Charger,Electronic,ByteCraft,5489,N
+5004,Power Bank 10000mAh,electronics,ByteCraft,4399,1
+5005,  Wireless Earbuds  ,Electronics,ByteCraft,7869,true
+5006,Smart Watch,Electronics,ByteCraft,1819,1
+5007,Mechanical Keyboard,Electronics,ByteCraft,3459,1
+5008,HD Webcam,Electronics,VoltEdge,1979,1
+5009,HDMI Cable 2m,Electronics,VoltEdge,1069,1
+5050,Statistics for Beginners,Books & Stationery,BookNest,769,N
+5010,LAPTOP STAND,Electronics,VoltEdge,1349,0
+5011,Portable SSD 512GB,Electronics,VOLTEDGE,,1
+5012,Wi-Fi Router,Electronics,ByteCraft,7969,Y
+5013,LED Desk Lamp,Electronic,VoltEdge,2819,1
+5014,Mixer Grinder,Home & Kitchen,HomeEase ,1099,1
+5015,Non-stick Frying Pan,Home & Kitchen,HomeEase,3149,1
+5016,Steel Water Bottle,Home & Kitchen,NestHome,3059,N
+5017,Electric Kettle,Home & Kitchen,NestHome,1739,1
+5027,Cotton T-Shirt,Fashion,UrbanWear,1319,1
+5018,Lunch Box Set,Home & Kitchen,HOMEEASE,4369,1
+5019,Storage Container Set,Home & Kitchen,CookWell,969,1
+5020,  Dinner Set 18pc  ,home & kitchen,CookWell,1349,
+5021,Pressure Cooker 5L,Home & Kitchen,NestHome,2229,Y
+5022,Cotton Bedsheet,home & kitchen,NestHome,1879,1
+5023,Wall Clock,Home and Kitchen,NestHome,3999,1
+5024,Air Fryer,Home & Kitchen,NestHome,899,1
+5025,Induction Cooktop,Home & Kitchen,NestHome,4419,1
+5026,Kitchen Knife Set,Home & Kitchen,HomeEase,809,1
+5027,Cotton T-Shirt,Fashion,UrbanWear,1319,1
+5028,Denim Jeans,Fashion,DenimCo,,1
+5029,Pullover Hoodie,Fashion,DenimCo,759,0
+5030,Running Shoes,Fashion,URBANWEAR,2459,No
+5031,Laptop Backpack,Fashion Wear,StyleHub,2969,Yes
+5032,Analog Wrist Watch,Fashion,StyleHub,729,
+5033,Polarized Sunglasses,Fashion,urbanwear,3359,1
+5034,COTTON KURTA,Fashion,StyleHub,TBD,1
+5035,Leather Wallet,Fashion,DenimCo,1989,1
+5036,Formal Shirt,Fashion,UrbanWear,3249,Y
+5037,Sports Cap,Fashion,DenimCo,2559,
+5033,Polarized Sunglasses,Fashion,urbanwear,3359,1
+5038,Winter Jacket,Fashion,URBANWEAR,2499,1
+5039,Canvas Sneakers,Fashion,StyleHub,3049,1
+5040,Python Programming Basics,Books & Stationery,PaperPlus,109,1
+5041,SQL Made Simple,Books & Stationery,PaperPlus,559,
+5042,Data Analysis Handbook,Books & Stationery,PaperPlus,609,1
+5043,Ruled Notebook Pack,Books & Stationery,InkWell,469,0
+5044,Gel Pen Set,Books & Stationery,BookNest,329,1
+5045,Desk Organizer,Books & Stationery,PaperPlus,679,1
+5046,Sketchbook A4,Books & Stationery,InkWell,739,1
+5047,Highlighter Set,Books & Stationery,paperplus,"1,299",1
+5048, Study Planner,Books & Stationery,BookNest,109,TRUE
+5038,Winter Jacket ,Fashion,URBANWEAR,2599,1
+5049,Excel Tips Guide ,Books & Stationery,InkWell,129,1
+5050,Statistics for Beginners,Books & Stationery,BookNest,769,N
+5051,sticky notes pack,Books & Stationery,PaperPlus,119,1
+5052,Geometry Box ,books & stationery,BookNest,279,1
+5053,Yoga Mat,SPORTS & FITNESS ,SprintX,1579,1
+5054,Dumbbell Set 10kg,Sports & Fitness,SprintX ,2029,Y
+5055,Cricket Bat,Sports & Fitness,SprintX,2379,1
+5056,Football Size 5,Sports & Fitness,FitPro,2769,1
+5057,Skipping Rope,Sports & Fitness,ActiveGear,1029,Yes
+5058,Badminton Racket,Sports & Fitness,SprintX,1469,true
+5059,Resistance Bands,Sports & Fitness,ActiveGear,Rs.499,TRUE
+5060,Gym Gloves,sports & fitness,SprintX,1759,Y
+5061,Fitness Tracker Band,Sports & Fitness,FitPro,949,1
+5062,Shaker Bottle,Sports & Fitness,ActiveGear,1789,1
+5033,Polarized Sunglasses ,Fashion,urbanwear,3459,1
+5063,Table Tennis Bat,sports & fitness,ActiveGear ,2479,1
+5064,Cycling Helmet,Sports & Fitness,ActiveGear,1239,1
+5065,Foam Roller,Sports & Fitness,FitPro,1169,Y
+5066,Face Wash,Beauty & Personal Care,PureLeaf,549,1
+5067,Herbal Shampoo,Beauty & Personal Care,SilkSkin,359,
+5068,Body Lotion,beauty & personal care,SilkSkin,999,1
+5069,Sunscreen SPF50,Beauty & Personal Care,PureLeaf,539,TRUE
+5070,Beard Trimmer,Beauty & Personal Care,GlowCare,1089,
+5071,Hair Dryer,Beauty & Personal Care,GlowCare,1699,0
+5072,Perfume 100ml,Beauty & Personal Care,PureLeaf,1849,N
+5073,Lip Balm,Beauty & Personal Care,SilkSkin,1379,1
+5074,Hair Oil,Beauty & Personal Care,SilkSkin,1919,yes
+5075,Vitamin C Serum,Beauty & Personal Care,PureLeaf,1789,1
+5076,Electric Toothbrush,Beauty & Personal Care,SilkSkin,1139,1
+5077,Moisturizer,Personal Care,SilkSkin,1219,1
+5078,Aloe Vera Gel,Beauty & Personal Care,SilkSkin,N/A,1

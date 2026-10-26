@@ -1,0 +1,2539 @@
+order_id,order_date,customer_id,order_status,sales_channel
+90001,2025-05-22,2279,Completed,Store
+90002,2024-12-27,2197,Completed,In-Store
+90003,2025-05-27,3463,Completed,Marketplace
+90004,2025-05-11,1296,Shipped,Store
+90005,2024-11-23,2660,Completed ,Online
+90006,2025-12-28,2807,Completed,Mobile App
+90007,2025-04-19,1412,Returned,Mobile App
+90008,,2848,Shipped,Mobile App
+90009,2024-12-11,1520,Completed,Marketplace
+90010,2024-04-17,2196,Completed,Online
+90011,2025-05-07,1871,Complete,Online
+90012,2025-04-14,2401,Completed,STORE
+90013,2024-09-26,2210,Canceled,Marketplace
+90014,2025-09-30,2100,Completed,Online
+90015,2025-02-14,1745,Completed,Mobile App
+90016,2024-03-16,3228,Completed,Marketplace
+90017,2025-11-19,1381,Completed,Store
+90018,2025-11-24,3271,PENDING,Online
+90019,2025-06-17,2130,Shipped,Online
+90020,2024-12-08,1844,Completed,Online
+90021,2024-08-09,3388,Completed,Store
+90022,2025-11-11,3394,Completed,marketplace
+90023,2025-03-29,2942,Completed ,Store
+90024,2024-10-06,1613,Completed,ONLINE
+90025,2025-06-18,1295,Completed,Online 
+90026,2025-07-05,1106,Returned,Store
+90027,2024-08-06,2734,Pending,Online
+90028,2024-06-23,2239,Completed,Mobile App
+90029,2025-02-26,1131,Completed,Online
+90030,2025-10-19,9999,Completed,Store
+90031,2025-12-15,1576,Cancelled,Online
+90032,2025-12-09,1595,Completed ,Store
+90033,2025-07-15,1383,Completed,Website
+90034,2024-07-20,2872,Cancelled,Online
+90035,2024-03-06,2103,Cancelled,Marketplace
+90036,2025-10-22,1946,Cancelled,Store
+90037,2024-08-27,2859,Completed,Mobile App
+90038,2025-08-22,2772,Cancelled,Store
+90039,2025-07-13,1959,Completed,online
+90040,2024-05-02,1221,Completed,Online
+90041,2024-04-19,1592,Completed,Website
+90042,2025-08-26,2248,Pending,Store
+90043,2024-06-03,1294,Completed,Online
+90044,2025-05-19,2315,Completed,Online
+90045,2025-04-16,3023,Completed,Mobile App
+90046,2024-10-09,1618,Pending,Mobile App
+90047,2024-12-30,2289,Completed,Mobile App
+90048,2024-02-20,1917,Completed,Mobile App
+90049,2025-07-23,2238,Shiped,marketplace
+90050,2024-09-24,2243,Shiped,Mobile App
+90051,2025-07-16,2122,Completed,Mobile App
+90052,2025-10-07,1474,Cancelled,Online
+90053,2025-08-06,2893,Completed,Online
+90054,2025-11-19,2394,Completed,Online
+90055,2024-01-10,3496,completed,Mobile App
+90056,2025-11-28,2192,Completed,Marketplace
+90057,2025-01-06,1844,Completed,Marketplace
+90058,2025-07-10,1619,Shipped,Online
+90059,2025-03-15,1646,Completed,Store
+90060,2025-12-25,2904,Completed,Online
+90061,2024-11-23,3423,completed,Store
+90062,2025-06-06,1342,Completed,MOBILE APP
+90063,2025-02-23,1304,Completed,Online
+90064,2025-04-27,2262,Cancelled,Online
+90065,2024-11-06,,completed,Marketplace
+90066,2025-02-17,1387,Completed,mobile app
+90067,2025-06-17,1243,Completed,Online
+90068,2025-01-20,1784,Completed,App
+90069,2025-02-13,,Completed,Store
+90070,2024-02-02,3430,Returned,Online
+90071,2024-05-21,2916,Pending,Online
+90072,2025-12-22,2926,completed,Marketplace
+90073,2025-03-05,3161,Pending,Online
+90074,2024-11-12,2542,Shipped,Online
+90075,2025-09-09,3402,Shipped,Mobile App
+90076,2024-03-18,2794,Completed,Store
+90077,2025-10-10,2200,Completed,Online
+90078,2025-01-29,3277,Completed,Mobile App
+90079,2025-10-06,2750,Completed,Marketplace
+90080,2025-02-24,1312,Completed,Store
+90081,2025-09-14,1263,Completed,Online
+90082,2024-02-25,1445,Shipped,Mobile App
+90083,2025-07-23,2305,Shipped,Store
+90084,2025-04-05,3402,returned,Marketplace
+90085,2025-11-21,1880,Completed,Online
+90086,2025-02-27,1434,Completed,Online
+90087,2025-07-29,2051,Pending,Online
+90088,2025-02-16,2925,Completed,Mobile App
+90089,2024-01-25,2039,Shipped,Online
+90090,2025-04-25,1688,Completed,Online
+90091,2025-12-24,3243,completed,Mobile App
+90092,2024-08-29,2222,Completed,Online
+90093,2025-09-08,1663,Completed,Store
+90094,2025-04-01,2486,Completed,store
+90095,2025-10-25,1946,Completed,Online
+90096,2025-10-18,1511,Completed,Mobile App
+90097,2025-05-27,2901,Shipped,Store
+90098,2024-01-14,2740,Completed,Online
+90099,2025-08-10,2561,Completed,Online
+90100,2025-08-30,1676,Completed,Mobile App
+90101,2025-07-16,2478,Completed,Online
+90102,2025-12-22,2746,Completed,Online
+90103,2024-02-25,1789,Pending,Mobile App
+90104,2025-12-06,,Completed,marketplace
+90105,2025-10-29,3309,Completed,Mobile App
+90106,2025-01-17,1990,Completed,Mobile App
+90107,2024-11-01,1458,Pending,Store
+90108,2025-09-25,1286,completed,Mobile App
+90109,2025-06-19,1899,Completed,Store
+90110,2025-09-25,1682,Completed,Online
+90111,2025-01-09,1029,Completed,online
+90112,2025-10-29,2000,Cancelled,Store
+90113,2025-09-06,2304,Pending,Store
+90114,2025-09-30,2828,Completed,Mobile App
+90115,2025-12-23,2503,Returned,Online
+90116,2024-03-13,1451,Completed,mobile app
+90117,2024-12-22,2721,Cancelled,Store
+90118,2025-04-17,1095,Completed,Online
+90119,2025-10-08,2611,Completed,Online
+90120,2024-07-29,,Completed,Mobile App
+90121,2025-07-25,99999,Cancelled,Online
+90122,2025-05-24,2389,Completed,Online
+90123,2025-10-16,2492,Completed ,Store
+90124,2024-09-12,1753,Completed ,Marketplace
+90125,2025-03-04,3019,COMPLETED,Mobile App
+90126,2025-07-25,1534,Cancelled,Online
+90127,2024-05-07,2021,Completed,Online
+90128,2025-07-03,1183,Completed,Online
+90129,2025-12-22,2592,Completed,Store
+90130,2024-04-15,1443,Completed,Mobile App
+90131,,2365,Completed,Online 
+90132,2025-05-22,1813,Shipped,Website
+90133,2025-08-30,2324,Completed,Marketplace
+90134,2025-08-12,1269,Shipped,Store
+90135,2025-06-02,2869,Completed,Online
+90136,2024-07-05,2424,Cancelled,Online 
+90137,2025-05-08,3251,Completed,Mobile App
+90138,2024-06-03,1896,Complete,Online
+90139,2025-08-30,3186,Cancelled,Mobile App
+90140,2024-09-25,1262,Completed,Store
+90141,2025-06-09,3352,Returned,Online
+90142,2025-06-24,2735,Completed,Mobile App
+90143,2024-03-27,9999,Cancelled,Mobile App
+90144,2025-09-15,1741,Returned,Mobile App
+90145,2024-12-27,2062,Pending,Online
+90146,2025-12-04,3154,Returned,Online
+90147,2025-08-01,1907,Completed,Marketplace
+90148,2024-09-08,3205,Cancelled,Store
+90149,2025-10-27,1375,Completed,Store
+90150,2024-05-15,2098,Completed,Online
+90151,2024-08-01,2087,Completed,Mobile App
+90152,2025-06-06,3004,Pending,Store
+90153,2024-05-16,2230,Completed,Online
+90154,2025-09-10,2320,Completed,Mobile App
+90155,2024-11-27,2520,Completed,Mobile App
+90156,2025-03-19,3098,Shipped,Marketplace
+90157,2025-08-17,2607,Completed,Marketplace
+90158,2025-04-21,3280,Completed,Mobile App
+90159,2024-02-11,1110,Shipped,Online
+90160,2025-08-27,3014,Completed,marketplace
+90161,2025-01-12,2820,Completed,Online
+90162,2024-12-06,2114,Completed,Marketplace
+90163,2024-09-21,2809,Completed,ONLINE
+90164,2025-06-04,1503,Shipped,Store
+90165,2024-09-17,1176,Completed,Marketplace
+90166,2025-04-07,3141,Completed,Online
+90167,2025-11-03,2041,Completed,Store
+90168,2024-11-15,1312,Completed,Store
+90169,2025-02-09,2235,Shipped,ONLINE
+90170,2024-03-07,3481,Completed,ONLINE
+90171,2024-06-14,1532,Completed,Store
+90172,2024-09-09,1668,Complete,Mobile App
+90173,2025-01-16,1022,Completed,Online
+90174,2025-12-15,1266,Cancelled,Online
+90175,2024-09-13,1919,Completed,marketplace
+90176,2025-02-25,2649,Returned,Online
+90177,2025-05-01,2292,Completed,Store
+90178,2024-13-01,2780,Completed,Store
+90179,2025-12-29,2056,Completed,Store
+90180,2025-06-17,2500,Shipped,Store
+90181,2025-02-21,2409,Pending,Store
+90182,2025-12-10,2619,Shipped,Mobile App
+90183,2025-06-03,1124,Completed,Online
+90184,2025-01-29,3482,Pending,Mobile App
+90185,2025-03-14,2839,Completed,Marketplace
+90186,2025-05-09,1794,Completed,Mobile App
+90187,2025-09-29,2604,completed,Mobile App
+90188,2025-02-12,1197,Completed,Store
+90189,2025-05-17,2520,Cancelled,Store
+90190,2025-09-13,3212,Completed,Store
+90191,2025-08-27,3271,Completed,Mobile App
+90192,2024-10-02,3480,In Progress,Mobile App
+90193,2025-01-30,2832,Completed,Mobile App
+90194,2025-07-02,3165,Completed,Store
+90195,2024-09-19,2390,Completed ,ONLINE
+90196,2025-10-28,2464,Completed,Online
+90197,2025-04-14,1161,Completed,Online
+90198,2025-12-23,1131,shipped,Mobile App
+90199,2024-01-15,3444,RETURNED,Marketplace
+90200,2025-04-02,2347,Cancelled,Online
+90201,2025-12-12,1435,Completed,Marketplace
+90202,2025-12-12,3432,Complete,Online
+90203,2025-05-24,3127,Completed,Online
+90204,2024-09-02,2857,Completed,Online
+90205,2024-07-29,2233,Completed,Online
+90206,2024-08-24,2664,Completed,Store
+90207,2024-12-19,3169,Completed,Store
+90208,2024-05-17,3190,Returned,Mobile App
+90209,2025-03-10,1608,COMPLETED,ONLINE
+90210,2024-10-30,3121,Shipped,Online
+91994,2025-06-23,2164,Cancelled,Online
+90211,2025-04-14,2147,Completed,Marketplace
+90212,2024-11-17,1163,shipped,Store
+90213,2025-11-25,1264,Completed,Mobile App
+90214,2025-04-06,2998,Completed,Marketplace
+90215,2025-03-18,2010,Completed,Marketplace
+90216,2025-11-04,3279,Completed,Online
+92149,2024-03-26,3162,Completed,Mobile App
+90217,2025-04-30,2748,Pending,Mobile App
+90218,2025-01-26,1151,Completed,Online
+90219,2025-08-04,2972,Cancelled,Mobile App
+90220,2025-12-09,2975,Completed,Online
+90221,2025-03-24,1579,Returned,Mobile App
+90222,2025-12-27,1364,Shipped,Mobile App
+90223,2025-11-13,1978,Completed,Store
+90224,2025-03-17,2528,Pending,Marketplace
+90225,2025-02-30,2187,Complete,Online
+90226,2024-07-07,1416,Completed,Online
+90227,2025-01-02,,Pending,Online
+90228,2025-03-28,2872,Completed,Mobile App
+90229,2025-07-12,1023,Completed,Online
+90230,2025-10-20,2391,Completed,Marketplace
+90231,2024-10-31,1080,Completed,Marketplace
+90232,2024-04-04,1661,Completed,Mobile App
+90233,2024-07-25,1792,Completed,Mobile App
+90234,2025-02-26,2917,Returned,Online
+90235,2025-02-05,1913,Complete,Mobile App
+90236,2025-07-19,2388,Cancelled,Mobile App
+90237,2025-06-08,3142,Completed,Mobile App
+90238,2025-12-23,2028,Completed,Marketplace
+90239,2025-09-04,3346,Completed,Store
+90240,2025-04-06,3110,Completed,Store
+90241,2024-03-02,2163,Cancelled,Mobile App
+90242,2025-01-27,1968,Shiped,Marketplace
+90067,2025-06-17,1243,Completed,Online
+90243,2025-08-16,1379,Completed,Mobile App
+90244,2024-11-02,1294,Returned,Online
+90245,2025-04-11,3425,Completed,Online
+90246,2025-11-24,2313,Completed,ONLINE
+90247,2025-04-11,2392,Shipped,Website
+90248,2024-05-10,1648,Completed,Mobile  App
+90249,2025-07-19,3269,Completed,Online
+90250,2025-08-17,1229,Completed,Online
+90251,2025-10-26,2175,Completed,Mobile App
+90252,2025-05-10,1161,Completed,Online
+90253,2025-05-30,2750,Returned,Online
+90254,2025-09-13,2702,Cancelled,Mobile App
+90255,2024-05-02,2210,completed,Store 
+90256,2024-12-10,2953,Cancelled,Marketplace
+90257,2024-08-17,2831,Completed,Online
+90258,2024-08-29,1522,Completed,Online
+90259,2025-06-14,1704,Completed,Online
+90260,2025-04-20,2386,Completed,Marketplace
+90261,2025-06-14,1100,Completed,Store
+90262,2025-07-18,3044,Complete,Mobile App
+90263,2025-09-14,3159,Completed,Mobile App
+90264,2025-02-28,1281,Pending,Store
+90265,2025-10-05,1727,Returned,Marketplace
+90266,2024-06-11,3160,Completed,Online
+90267,2025-10-13,3283,Completed,Online
+90268,2025-09-07,1895,Completed,Mobile App
+90269,2025-01-14,1178,Completed,Online
+90270,2025-05-17,2149,Cancelled,Online
+90271,2024-06-24,2495,Returned,Mobile App
+90272,2025-05-03,2397,Completed,Store
+90273,2024-07-18,2641,Cancelled,Mobile App
+90274,2024-10-12,1869,Pending,Mobile App
+90275,2024-10-01,2374,Completed ,Marketplace
+90276,2025-11-26,1633,Completed,Marketplace
+92392,2025-04-15,1886,Completed,Marketplace
+90277,2025-01-18,3286,Completed,Market Place
+90278,2024-09-18,1029,Returned,Online
+90279,2024-07-12,2217,Completed,Online
+90280,2024-04-11,3436,Completed,Online
+90281,2025-06-27,2528,Completed,Marketplace
+90282,2025-09-14,2963,Completed,Mobile App
+90283,2024-08-29,1473,Completed,Mobile App
+90284,2024-10-08,2388,Completed,Mobile App
+90285,2024-02-01,3265,Completed,Store
+90286,2025-06-10,2293,Cancelled ,Mobile App
+90287,2025-05-24,1181,Completed,Marketplace
+90288,2025-05-13,2494,Returned,Store
+90289,2024-02-05,,Completed,online
+90290,2025-11-15,2820,Return,Online
+90291,2024-02-04,3253,Completed,Online
+90292,2024-03-21,2565,In Progress,Marketplace
+90293,2024-03-15,1883,Completed,Store
+90294,2025-03-12,2128,Cancelled,Online
+90295,2025-09-12,2732,Completed,Store 
+90296,2024-10-08,1178,Completed,Online 
+90297,2024-11-15,2359,Completed,Store
+90298,2025-02-30,2881,Completed,Mobile App
+90299,2025-07-08,1532,Completed,Online
+90300,2025-07-03,2977,Completed,Mobile  App
+90301,2025-07-31,2003,Returned,Mobile App
+90302,2024-02-27,2965,Completed,Website
+90303,2024-08-11,2076,Returned,Online
+90304,2025-12-15,1576,Cancelled,Online
+90305,2025-09-27,2180,COMPLETED,Online 
+90306,2025-11-24,3057,Completed,Mobile App
+90307,2024-11-19,1622,Pending,Mobile App
+90308,2025-02-05,2233,Cancelled,Mobile App
+90309,2025-08-08,1743,Completed,Mobile App
+90310,2025-08-08,1391,Cancelled,Store
+90311,2025-11-08,2389,Completed,Mobile App
+90312,2025-12-12,1450,Completed,Mobile App
+90313,2025-12-29,3312,Completed,Online
+90314,2024-05-26,2261,Completed,Marketplace
+90315,2025-05-09,3042,Returned,Marketplace
+90316,2024-01-20,1147,Completed,Online
+90317,2025-07-28,1607,Cancelled,Online
+90318,2025-04-26,1360,Completed,Online
+90319,2024-03-26,2361,Completed,Online
+90320,2025-05-29,2758,Shipped,Online
+90321,2024-12-04,1961,Completed,Online 
+90322,2024-12-21,2831,Completed,mobile app
+90323,2024-09-05,2904,Completed,mobile app
+90324,2025-08-22,2394,Completed,Mobile App
+90325,2024-09-18,1653,Completed,Mobile App
+90326,2025-11-02,2134,Completed,Online
+90327,2025-09-15,2643,Completed,Online
+90328,2024-01-08,2176,Completed,Mobile App
+90329,2025-12-11,3299,Returned,Online
+90330,2025-04-24,2515,Completed,Online
+90331,2024-05-02,1461,Completed,Store
+90332,2025-05-25,2850,Completed,Store
+90333,2025-09-08,2382,Returned,Mobile App
+90334,2025-02-03,2572,Pending,Online
+90335,2024-07-10,2744,Shipped,Store
+90336,2024-10-18,3252,Shipped,Online
+90337,2025-05-26,1774,Completed,Online
+90338,2025-05-16,1737,Completed,ONLINE
+90339,2025-02-05,1502,Cancelled,Mobile App
+90340,2024-01-07,1140,Completed,Online 
+90341,2025-07-14,1020,Completed,Mobile App
+90342,2025-10-26,1109,Completed,Online
+90343,2025-02-20,3087,Completed,Online
+90344,2024-11-19,1788,Completed,Mobile App
+90345,2025-04-06,2413,Completed,MOBILE APP
+90346,2024-07-15,,pending,Store
+90347,2025-12-03,1203,Completed,Online
+90348,2025-09-03,2924,Completed,Store
+90349,2024-10-20,2711,Pending,Online
+90350,2024-01-18,1551,Completed,Online
+90351,2025-02-09,3078,Completed,Mobile App
+90352,2025-09-16,2535,Returned,Marketplace
+90353,2025-09-18,3009,Completed,Mobile App
+90354,2025-08-05,1798,Completed,Store
+90355,2025-12-05,2561,Shipped,Mobile App
+90356,2025-10-31,2812,Completed,Online
+90357,2024-07-05,1868,Completed,ONLINE
+90358,2025-12-29,1733,Completed,Store
+90359,2024-10-28,2921,Completed,Online
+90360,2024-09-08,3173,Completed,Mobile App
+90361,2025-04-08,2626,Completed,mobile app
+90362,,2872,Cancelled,Store
+90363,2025-09-21,2135,Returned,Marketplace
+90364,2024-05-01,2517,Completed,Online
+90365,2025-02-09,1829,returned,Online
+90366,2024-07-05,2889,Cancelled,Mobile App
+90367,2025-10-17,3201,Completed,Mobile App
+90368,2024-12-13,1436,COMPLETED,Mobile App
+90369,2024-10-19,3490,Completed,Marketplace
+90370,2025-01-20,2722,Shipped,Mobile App
+90371,2024-07-24,1569,Completed,Mobile App
+90372,2024-02-23,123,Completed,Mobile App
+90373,2024-11-09,1083,Pending,Mobile App
+90374,2024-08-19,2741,Completed,Online
+90375,NULL,1875,Completed,Online
+90376,2025-05-01,2557,Returned,Online
+90377,2024-07-15,123,Cancelled,Mobile App
+90378,2024-07-02,2639,Pending,Mobile App
+90379,2025-08-20,1753,Completed,Mobile App
+90380,2025-12-04,1776,Pending,Store
+90381,2025-12-04,2717,Completed,Online 
+90382,2025-07-03,3329,Completed,Online
+90383,2025-07-09,1235,Returned,Online
+90384,2025-05-02,1033,Completed,Mobile App
+90385,2025-09-27,2721,Completed,Store
+90386,2025-04-26,1865,Completed,Online
+90387,2024-08-10,1669,Returned,Online
+90388,2025-02-17,2183,Cancelled,Online
+90389,2025-05-27,1202,Completed,Mobile App
+90390,2024-06-20,1258,Completed,Store
+90391,2025-12-20,2609,COMPLETED,Online
+90392,2025-11-24,2960,Completed,Store
+90393,2025-01-17,3297,Completed,Mobile App
+90394,2024-03-11,1565,Completed,Online
+90395,2024-11-21,3190,Completed,store
+90396,2025-11-26,1477,Completed,ONLINE
+90397,2024-10-31,2403,Completed,Mobile App
+90398,2025-10-06,1505,COMPLETED,Online
+90399,2024-11-09,1907,Completed,Mobile App
+90400,2024-06-12,3353,Completed,Store
+90401,2024-10-19,,Cancelled,Online
+90402,2025-07-20,1254,Cancelled,Online
+90403,2025-12-25,1946,completed,Mobile App
+90404,2025-02-28,1763,Completed,marketplace
+90405,2025-02-08,3446,Completed,Online
+90406,2024-06-27,3040,Completed,ONLINE
+90407,2024-08-27,2584,Completed,Online
+90408,2025-10-25,3278,Completed,Online
+90409,2024-11-19,,Completed,ONLINE
+90410,2024-08-02,2444,Completed,Store
+90411,2025-03-29,1454,COMPLETED,Store
+90412,2025-07-10,2648,Completed,Mobile App
+90413,2025-10-15,2658,Complete,Online
+90414,2024-07-01,1539,Completed,Online 
+90415,2025-03-24,3217,Completed,Marketplace
+90416,2024-05-26,1846,Completed,marketplace
+90417,2024-03-30,1623,Completed,Online
+90418,2024-08-11,2530,Cancelled,Online
+90419,2025-01-27,2699,Completed,Marketplace
+90420,2025-09-08,1034,Completed,Online
+90421,2025-05-02,2331,Returned,Online
+90422,2025-07-03,1003,Completed,Mobile App
+90423,2025-12-08,1663,Shipped,Store
+90424,2024-08-21,1203,Completed,Marketplace
+90425,2025-12-03,1391,Returned,Mobile App
+90426,2024-09-19,3073,Completed,Mobile App
+90427,2025-07-16,3190,Completed,Online
+90428,2025-02-24,2005,Completed,MOBILE APP
+90429,2025-02-19,2803,Completed,Store
+90430,2025-05-09,1604,Completed,Online
+90431,2025-10-08,2058,Pending,Online
+90432,2025-06-09,2452,Completed,Mobile App
+90433,2025-09-18,2151,Completed,Market Place
+90434,2025-01-12,2018,Completed,Online
+90435,2024-07-09,2706,Completed,Mobile  App
+90436,2024-08-05,2901,Pending,Online
+90437,2025-09-05,1661,Cancelled,Marketplace
+90438,2025-11-29,2695,Shipped,Mobile App
+90439,2024-04-06,2122,Cancelled,Store
+90440,2024-10-07,1110,Completed,MARKETPLACE
+90441,2024-05-03,1006,Shipped,Mobile App
+90442,2024-05-05,2370,Completed,Online
+90443,2024-09-29,1051,Completed,Mobile App
+90444,2024-11-19,123,Pending,Store
+90445,2025-12-24,3302,Completed,Online
+90446,2025-11-04,2513,Cancelled,Online
+90447,2025-02-28,3105,Pending,Mobile App
+90448,2024-05-11,1174,Cancelled ,Mobile App
+90449,2024-10-09,2578,Completed,Mobile App
+90450,2025-09-23,3240,Returned,Website
+90451,2025-03-17,3054,Shipped,Online
+90452,2024-06-14,1409,Cancelled,Mobile App
+90453,2024-01-04,1305,Shipped,Online 
+90454,2025-09-17,1140,Completed,Mobile App
+90455,2025-03-08,2034,Completed,Mobile App
+90456,2025-11-27,2894,Complete,Store
+90457,2025-10-18,1566,Completed,Online
+90458,2024-09-23,1319,completed,Online
+90459,2024-04-02,3490,Shipped,App
+90460,2024-09-16,1972,Canceled,Mobile App
+90461,2024-03-11,2662,Completed,Marketplace
+90462,2025-10-23,1948,COMPLETED,Online
+90463,2025-03-01,1668,Completed,Online
+90464,2024-03-17,2484,Shipped,Marketplace
+90465,2024-12-04,3376,Completed,Mobile App
+90466,2025-07-12,1409,completed,Store
+90467,2025-06-20,2897,Completed,Mobile App
+90468,2025-06-01,1697,Completed,Mobile  App
+90469,2025-10-17,3130,Completed,Marketplace
+90470,2025-01-02,2003,Completed,Mobile App
+90471,2024-09-14,2699,Completed,Online
+90472,2025-12-15,99999,Cancelled,Mobile App
+90473,2025-11-19,2412,Completed,Mobile App
+90474,2024-03-29,3083,Completed,Store
+90475,2024-08-02,1605,Completed,Mobile App
+90476,2024-03-23,,Completed,Online
+90477,2025-04-19,1560,Completed,Online
+90478,2024-03-08,3123,Completed,Marketplace
+90479,2024-01-08,1879,Completed,Store
+90480,2024-07-03,1939,Completed,Marketplace
+90481,2024-12-22,3271,Completed,Marketplace
+90482,2024-06-09,1647,Complete,Store
+90483,2024-07-09,3358,completed,Mobile App
+90484,2025-08-15,3345,Returned,Online
+90485,2025-02-05,1823,Cancelled,Store
+90486,2025-08-11,2866,Completed,Store
+90487,2025-07-07,1396,Completed,Marketplace
+90488,2025-11-09,3203,Returned,Online
+90489,2024-08-07,1921,Completed,Store
+90490,2025-04-13,3321,Completed,Store
+90491,2025-10-10,3421,Completed,Online
+90328,2024-01-08,2176,Completed,Mobile App
+90492,2024-11-29,,Pending,Mobile App
+90493,2025-04-22,1309,Completed,Store
+90494,2025-06-22,3429,Returned,Store
+90495,2024-08-30,3404,Cancelled,Online
+90496,2024-06-04,1521,Completed,Marketplace
+90497,2024-04-11,2363,Completed,Mobile App
+90498,2024-08-23,2287,Completed,Online
+90499,2024-10-18,1058,Completed,Store
+90500,2025-10-28,2044,Pending,ONLINE
+90501,2024-09-27,3211,Returned,Online
+90502,2024-08-10,2419,Cancelled,Store 
+90503,2024-03-14,3460,Completed,Marketplace
+90504,2025-04-06,2059,completed,Mobile App
+90505,2024-07-23,1803,Cancelled,Store
+90506,2024-12-30,1995,completed,Online
+90507,2025-08-01,2134,Completed,Online
+90508,2024-09-26,1180,Completed,Store 
+90509,2024-08-12,1835,Cancelled,Mobile App
+90510,2025-02-03,1649,Completed,Store
+90511,2025-11-21,1419,Completed,Marketplace
+90512,2025-11-15,1172,completed,Online
+90513,2024-04-05,3191,Shipped,Store
+90514,2025-02-15,2342,Cancelled,Store
+90515,2025-12-14,2735,Cancelled,Mobile App
+90516,2024-11-25,1187,Completed,Mobile App
+90517,2025-10-18,2111,Completed,Website
+90518,2025-10-09,2560,Pending,Marketplace
+90519,2024-08-06,2705,Completed,Marketplace
+90520,2025-07-09,2862,Shipped,Store
+90521,2025-07-11,3069,Completed,Store
+90522,2024-11-12,2012,Cancelled,Mobile App
+90523,TBD,3301,Returned,Online
+90524,2025-11-08,1004,Pending,App
+90525,2025-10-15,1990,Cancelled,Online
+90526,2025-02-01,1357,Completed,Online
+90527,2025-07-23,1649,Completed,Mobile App
+90528,2025-08-23,3421,Completed,Online
+90529,2024-11-27,1945,Cancelled,Store
+90530,2025-01-07,1363,PENDING,Online
+90531,2025-12-18,2079,Completed,Store
+90532,2024-11-23,1431,Completed,Store
+90533,2024-11-25,1500,Completed,Mobile App
+90534,2025-04-26,1648,completed,App
+90535,2025-05-10,1288,Completed ,Marketplace
+90536,2024-08-04,2322,completed,Mobile App
+90537,2025-03-07,3002,Pending,Mobile App
+90538,2025-02-15,2605,Cancelled,Mobile App
+90539,2025-01-26,1400,Shipped,Mobile App
+90540,2025-09-18,1811,Completed,Store
+90541,2024-02-17,3074,Completed,Mobile App
+90542,2024-03-14,1627,Completed,Mobile App
+90543,2025-01-16,2083,Shipped,Online
+90544,2024-08-20,1331,Completed,STORE
+90545,2025-09-24,1371,Returned,Website
+90546,2025-01-12,3343,Completed,Mobile App
+90547,2025-01-16,2366,Pending,Store
+90548,2024-04-06,1266,Completed,Mobile App
+90549,2025-07-06,3111,PENDING,Online
+90550,2025-07-26,2903,Completed,Store
+90551,2024-10-19,3191,Shipped,Online
+90552,2025-09-19,2978,Completed,Mobile App
+90553,2025-07-11,2793,Completed,Online
+90554,2024-07-14,1152,Completed,Store
+90555,2024-03-16,2422,Returned,Online
+90556,2025-10-21,2630,Completed,Mobile App
+90557,2024-10-06,2074,Completed,STORE
+90558,2024-11-10,1986,Completed,Marketplace
+90559,2024-06-02,1418,Returned,Mobile App
+90560,2024-05-22,1149,Completed,Mobile App
+90561,2025-06-08,2300,Completed,Online
+90562,2025-11-12,2135,Completed,Online
+90563,2025-05-11,2318,Completed ,Store
+90564,2025-10-29,2148,Shipped,Mobile App
+90565,2025-04-16,2521,Pending,Store
+90566,2024-03-01,2467,Cancelled,Mobile App
+90567,2025-02-03,2895,Pending,Online
+90568,2024-01-11,1027,Complete,App
+90569,2025-05-05,1637,Shipped,Mobile  App
+90570,2025-06-13,2141,Completed,Marketplace
+90571,2025-09-04,2680,Pending,Online
+90572,2025-09-19,1962,Completed,Store
+90573,2025-08-14,2673,Completed,Store
+90574,2025-06-03,1127,Completed,Store
+90575,2025-08-30,2399,Completed,Online
+90576,2025-03-05,3424,Completed,Store
+90577,2025-02-24,2837,Completed,Online
+90578,2024-06-16,1328,Completed,Online
+90579,2024-08-27,2251,Cancelled,Mobile App
+90580,2024-07-29,2253,Completed,Store
+90581,2024-09-22,3310,Completed,Store
+90582,2024-07-19,1786,Completed,Online
+90583,2024-04-30,1968,Completed,Mobile App
+90584,2024-08-02,3102,Completed,Online
+90585,2025-01-04,2321,Completed,Store
+90586,2024-02-08,1207,Completed,Store
+90587,2025-10-31,1062,Shiped,Store
+90588,2025-12-14,3260,Returned,Online
+90589,2024-01-10,1824,Completed,Online
+90590,2025-05-01,99999,Completed,Marketplace
+90591,2025-12-07,1500,Completed,Store
+90592,2025-06-07,1303,Completed,Website
+90593,2024-03-26,1872,Completed,Online
+90594,2025-07-06,3275,Pending,Mobile App
+90595,2025-04-21,3460,Completed,Store
+90596,2024-10-02,1271,Completed,Online
+90338,2025-05-16,1737,Completed,ONLINE
+90597,2025-07-09,1936,Completed,Online
+90598,2025-05-10,2199,Completed,Online
+90599,2025-06-06,1903,COMPLETED,Online
+91991,2025-08-30,3010,Completed,Online
+90600,2025-08-20,3125,Complete,Mobile App
+90601,2024-01-21,2426,Completed,Online
+90602,2024-03-14,2919,Completed,Mobile App
+90603,2024-07-16,1478,Cancelled,MOBILE APP
+90604,2024-06-22,1947,Completed,Online
+90605,2025-12-07,3002,Complete,Mobile App
+90606,2025-09-23,2093,Completed,Mobile App
+90607,2024-08-31,1271,Completed,Online
+90608,2024-03-04,3449,Completed ,Store
+90609,2025-07-08,3147,Completed,Mobile App
+90610,2025-10-01,1191,Completed,Marketplace
+90611,2025-04-01,1839,Shipped,Mobile App
+90612,2024-07-07,2408,Completed,Online
+90613,2025-05-01,1174,Completed,Mobile App
+90288,2025-05-13,2494,Returned,Store
+90614,2024-07-07,2116,Cancelled,Mobile App
+92094,2024-02-09,1121,SHIPPED ,In-Store
+90615,2024-12-11,2296,Completed,Store
+90616,2025-03-05,3329,Completed,STORE
+90617,2025-11-19,1256,Completed,Marketplace
+90618,2024-06-02,2128,COMPLETED,Store
+90619,2024-11-25,123,Returned,Mobile App
+90620,2025-05-25,1097,Completed,Mobile App
+90621,2024-03-05,2556,Shipped,Online
+90622,2025-09-02,1005,Completed,Mobile App
+90623,2025-10-22,2551,Pending,Store
+90624,2025-12-20,2510,Completed,Mobile App
+90625,2024-08-12,3462,Completed,Mobile App
+90626,2025-04-23,2206,Shipped,Store
+90627,2025-10-03,2073,Complete,Online
+90628,2025-12-01,1424,Returned,Mobile App
+90629,2025-10-10,1357,Completed,Online
+90630,2024-07-31,1501,Pending,App
+90631,2025-12-17,1900,Completed,Mobile App
+90632,2024-12-23,3482,Completed ,Online 
+90633,2025-03-31,3148,Returned,Store
+90634,2025-10-21,1422,Pending,Online
+90635,2025-02-21,3124,COMPLETED,Online
+90636,2025-03-06,2009,Completed,In-Store
+90637,2025-04-29,2042,Completed,Mobile App
+90638,2025-03-01,1379,Completed,Market Place
+90639,2025-01-28,2395,Pending,Marketplace
+90640,2024-10-30,1995,Completed,Online
+90641,2025-04-21,2479,Cancelled,Mobile App
+90642,2025-01-11,1961,Completed,Online
+90643,2024-09-23,2129,Completed,Mobile App
+90644,2025-04-06,2987,Completed,Mobile App
+90645,2025-11-14,2037,Completed,Mobile App
+90646,2024-09-13,2603,Completed,Mobile App
+90647,2025-12-01,2512,Cancelled,Store
+90648,2025-10-11,2152,Completed,Online
+90649,2024-07-04,3022,Completed,Online
+90650,2025-01-25,2360,cancelled,Online
+90651,2025-10-01,1012,Pending,Mobile App
+90652,2025-10-29,2763,Pending,Online
+90653,2024-05-09,2968,Cancelled,Mobile App
+90654,2025-08-20,2554,Cancelled,Mobile App
+90655,2024-06-22,1258,Completed,Mobile App
+90656,2024-08-02,2388, Pending,Mobile App
+90657,2024-11-04,1875,Returned,Mobile App
+90658,2025-01-31,2536,Returned,Mobile App
+90659,2024-04-26,3067,Returned,Online
+90660,2025-07-27,3363,Completed,Store
+90661,2024-01-16,3202,Completed,Mobile App
+90662,2025-12-16,3393,Completed,ONLINE
+90663,2025-06-13,1338,Completed,Online
+90664,2024-09-25,1067,Cancelled ,Store
+90665,2025-02-03,2218,Completed,Online
+90666,2025-02-06,1088,Completed,Online
+90667,2025-12-17,2132,Completed,Mobile App
+90668,2024-08-03,1355,Completed,Mobile App
+90669,2025-12-24,2794,Completed,Mobile App
+90670,2024-11-02,1359,Shipped,mobile app
+90671,2025-06-04,3458,Complete,Mobile App
+90672,2025-09-18,2584,Completed,Online
+90673,2025-08-22,2186,Completed,Store
+90674,2024-03-28,2936,Completed,online
+90675,2025-08-12,3482,Completed,Mobile App
+90676,2025-10-23,2995,Completed,Online
+90677,2024-12-27,3390,Shipped,Online 
+90678,2025-01-05,2012,Shipped,Store
+90679,2024-05-13,1281,Completed,Store
+90680,2024-06-01,2000,Completed,Online
+90681,2025-11-16,1066,Cancelled,Marketplace
+90682,2025-08-13,1516,Completed,Online
+90683,2025-06-30,3152,Completed,Online
+90684,2024-04-04,1712,Completed,Store
+90685,2024-05-15,3007,Completed,Online
+90686,2024-06-09,2676,Completed,Store
+90687,2025-07-19,3084,Completed,Online
+90688,2024-11-21,1130,Cancelled,Mobile App
+90689,2024-04-14,1783,Completed,Online
+90690,2024-01-01,2872,Completed,Online
+90691,2025-06-02,1544,Completed,Mobile App
+90692,2025-07-10,2731,Shipped,Mobile App
+90693,2025-12-13,1713,Completed,Online
+90694,2024-03-13,1039,Completed,Mobile App
+90695,2025-12-16,2479,COMPLETED,Online
+90696,2025-05-30,2748,Completed,Online
+90697,2024-07-14,1614,Completed,Store
+90698,2024-08-29,2070,Completed,Online
+90699,2025-11-09,3003,Shipped,Online
+90700,2025-09-13,2754,Completed,Store
+90701,2024-09-11,2181,Returned,STORE
+90702,2025-11-22,2997,Cancelled,App
+90703,2025-06-21,1118,Completed,Online
+90704,2025-08-02,1868,Returned,Online
+90705,2025-10-13,2654,Completed,Marketplace
+90706,2025-02-14,2600,PENDING,Online
+90707,2024-09-28,3008,Completed,Marketplace
+90708,2025-08-29,1731,Completed,Marketplace
+90709,2024-07-13,1586,Completed,Mobile App
+90710,2024-03-03,2395,Completed,Mobile App
+90711,2025-09-20,3210,Shipped,Store
+92274,2024-01-09,1316,Completed,Online
+90712,2025-06-11,3196,Completed,Mobile  App
+90713,2025-10-10,2660,Completed,Online
+90714,2024-05-07,3358,Completed,Mobile App
+90715,2025-08-10,3029,Pending,Mobile App
+90716,2024-04-30,1216,Completed,Online
+90717,2025-08-03,3359,Completed,Mobile App
+90718,2024-11-04,1622,Shipped,Online
+90719,2025-11-25,2861,Completed,Mobile App
+90720,2024-08-17,2905,Complete,Store
+90721,2025-04-25,1052,Cancelled,Mobile App
+90722,2025-01-13,2506,COMPLETED,Online
+90723,2025-11-14,2365,Completed,Mobile App
+90724,2024-10-30,2602,Completed,Marketplace
+90725,2025-12-29,2905,Shipped,Store
+92431,2025-03-26,1013,Shipped,Mobile App
+90726,2025-02-19,1424,Returned,Mobile App
+90727,2025-01-08,1063,Completed,Mobile App
+90728,2024-12-18,1706,Complete,Market Place
+90729,2025-09-11,1469,Completed,Mobile App
+90730,2025-09-03,2187,Completed,Store
+90731,2025-04-13,2990,Completed,ONLINE
+90732,2025-04-29,1512,Completed ,Marketplace
+90733,2024-08-12,1504,Cancelled,Online
+90734,2025-11-15,1113,Pending,Online
+90735,2025-08-17,3372,Cancelled,Mobile App
+90736,2025-07-27,1279,In Progress,Store
+90737,2025-10-27,2040,Completed,Mobile App
+90738,2024-10-20,1621,Completed,Store 
+90739,2025-07-22,2186,Completed,Online
+90740,2024-07-01,1949,Cancelled,Marketplace
+90741,2025-07-12,1051,Returned,Marketplace
+90742,2025-10-05,2827,Cancelled,Online
+90743,2025-06-14,1450,Returned,Store
+90744,2024-12-29,1877,Completed,Online
+90745,2025-04-15,1264,Completed,Online
+90746,2025-05-13,1916,Completed,Online
+90747,2025-10-06,1063,Completed,Mobile App
+90748,2024-09-06,2420,completed,Store
+90749,2025-06-23,3041,Cancelled,Mobile App
+90750,2025-07-24,1434,Pending,Mobile App
+90751,2024-10-04,1646,Completed,Mobile App
+90752,2024-07-13,3412,Pending,Online
+90753,2024-12-30,2257,Completed,Mobile  App
+90754,2025-11-01,1075,Completed,Mobile App
+90755,2025-05-07,1417,Completed ,Store
+90756,2024-10-01,,Completed,Store
+90757,2025-05-02,1823,Completed,Online
+90758,2025-02-30,1583,Completed,Online
+90759,2025-09-19,3035,Canceled,Store
+90760,2025-04-04,1095,Completed,Mobile App
+90761,2024-04-10,1694,Completed,Online
+90762,2025-11-29,2247,Completed,Mobile App
+90763,2024-09-25,3205,Completed,Mobile App
+90764,2024-10-20,3214,Completed,mobile app
+90765,2025-09-23,2024,COMPLETED,Online
+90766,2024-07-06,1684,Return,Store
+90767,2025-09-18,2988,Completed,Mobile App
+90768,2025-07-06,2758,Completed,Online
+90769,2025-10-03,2838,Shipped,Online
+90770,2025-02-08,2941,Returned,Online
+90771,2025-07-06,1419,Completed,Marketplace
+90772,2025-10-27,2992,Completed,MOBILE APP
+90773,2025-04-26,3465,Completed,Mobile App
+90774,2024-12-18,1595,Completed,Mobile App
+90775,2025-03-27,1361,completed,Store
+90776,2024-12-11,2265,Completed,Mobile App
+90777,2024-03-18,1330,Returned,Mobile App
+90951,2024-05-27,3357,Complete,Mobile App
+90778,2024-10-08,1647,Completed,Online
+90779,2024-01-02,1500,Complete,Marketplace
+90780,2024-11-21,3367,Shipped,Store
+90781,2024-07-15,1789,Completed,Online
+,2025-02-07,2332,Completed ,Online
+90783,2025-10-05,1615,Completed,Mobile App
+90784,2024-03-17,2298,completed,Store
+90785,2024-09-03,2057,Completed,Online
+90786,2025-06-05,2197,completed,Store
+90787,2025-08-24,2619,Returned,Store
+90788,2025-07-05,1043,Cancelled,Mobile App
+90789,2024-06-17,1442,Completed,Mobile App
+90790,2025-07-09,2740,Completed,Mobile App
+90791,2025-01-14,2968,Returned,Mobile App
+90792,2025-11-30,1839,Completed,Marketplace
+90793,2024-10-05,3393,Completed,Store
+90794,NULL,2867,Complete,Mobile App
+90795,2024-11-20,1296,Completed,Store
+90796,2025-02-03,1680,Completed,Mobile App
+90797,2024-01-30,1627,Completed,Store
+90798,2025-02-19,2733,Shipped,Online
+90799,2024-07-17,1774,Completed ,Mobile App
+90800,2025-06-04,1117,Completed,Marketplace
+90801,2024-12-15,1671,Completed,Store
+90802,2025-12-18,3326,Completed,Mobile App
+90803,2025-03-07,1309,Completed,Mobile App
+90804,2024-12-11,1558,Completed,Store
+90805,2025-12-07,1074,Completed,Mobile App
+90806,2024-11-06,2576,Completed,Mobile App
+90807,2025-11-27,3483,Completed,MARKETPLACE
+90808,2024-05-18,1555,Completed,Online
+90809,2024-03-28,2949,Completed,In-Store
+90810,2025-02-26,3407,Completed,Online
+90811,2025-09-18,3108,Completed,Online 
+90812,2025-05-18,2698,Complete,marketplace
+90813,2024-08-23,3449,Completed,Marketplace
+90814,2025-01-01,2632,Shipped,Online
+90815,2025-10-13,2421,Completed,Online
+90816,2025-09-12,3258,Pending,Store 
+90817,2025-10-28,3036,Completed,Online
+90818,2025-04-30,2111,Completed,Online
+90819,2025-09-30,2124,Completed,Mobile App
+90820,2024-07-13,1729,Completed,Mobile App
+90821,2024-06-09,1321,Shipped,MOBILE APP
+90822,2025-08-12,1480,Returned,Mobile App
+92405,2025-07-22,3178,Completed,Mobile App
+90823,2024-11-22,2239,Shipped,Store
+90824,2025-12-28,1070,Cancelled,Mobile App
+90825,2024-05-24,2038,Completed,Store
+90826,2024-11-12,3456,Completed,Mobile App
+90827,2024-02-25,3279,Completed,Mobile App
+90828,2025-09-19,1997,Completed ,Mobile App
+90829,2024-07-14,1780,Returned,Online
+90830,2025-11-26,3297,Completed,Mobile App
+90831,2025-09-30,3434,Completed,Store
+90832,2024-07-04,2223,Returned,Store
+90833,2025-12-31,3481,Completed,Mobile App
+90834,2024-12-01,2913,completed,mobile app
+90835,2024-02-14,2577,Completed,online
+90836,2024-04-09,2856,Completed,Mobile App
+90837,2025-08-01,3424,completed,Online
+90838,2025-11-30,1364,Shipped,Mobile App
+90839,2025-12-12,1405,Returned,Website
+90840,2025-08-01,2424,Completed,Online
+90841,2025-08-01,3057,Completed,Online
+90842,2024-05-06,1741,Completed,Mobile App
+90843,2025-12-30,1023,Completed,Mobile App
+90844,2025-07-20,1480,pending,Store
+90845,2025-09-25,2900,Completed,Store
+90846,2025-06-15,1674,Completed,Mobile App
+90847,2025-04-15,1995,Completed,Mobile App
+90848,2025-10-30,2283,Completed,Marketplace
+90849,2025-03-10,2134,Completed,Mobile App
+90850,2025-01-07,2386,Returned,Store
+90851,2025-01-18,3163,Completed,Online
+90852,2025-06-01,2515,Completed,Online
+90853,2024-05-17,1656,Completed,Online
+90854,2025-06-02,2249,SHIPPED ,Marketplace
+90855,2025-03-26,1845,Completed,Marketplace
+90856,2024-10-16,3158,Completed,Online
+90857,2024-07-30,3324,Completed,Mobile App
+90858,2025-03-08,2786,Completed,Store
+90561,2025-06-08,2300,Completed,Online
+90859,2025-08-04,2060,Completed,Online
+90860,2025-09-15,3128,Completed,Marketplace
+90861,2025-08-24,1480,Returned,Store
+90862,2024-07-28,2740,Cancelled,App
+90863,2025-10-29,1130,Completed,store
+90864,2025-05-18,3246,Completed,Mobile App
+90865,2024-10-22,1637,Shipped,Store
+90866,2024-03-05,2053,Completed,Online
+90867,2025-07-13,1319,Completed,Mobile App
+90868,2024-08-17,3229,Completed,Mobile App
+90869,2024-07-21,3284,Completed,online
+90870,2025-04-07,1632,completed,Online
+90871,2025-11-09,1066,Completed,Online
+90872,2024-03-14,3249,Completed,Store
+90873,2024-07-07,2058,Completed,Marketplace
+90874,2025-08-21,1843,Completed,marketplace
+90875,2025-06-16,2585,Completed,Online
+90876,2025-12-11,3232,Completed,Mobile App
+90877,2025-11-07,3100,Pending,Mobile App
+90878,2024-09-02,1719,Completed,Marketplace
+90879,2025-04-20,2713,Completed,Online
+90880,2025-08-11,1746,Completed,Mobile App
+90881,2024-06-29,2153,Completed,Online
+90388,2025-02-17,2183,Cancelled,Online
+90882,2024-09-09,3133,Completed,Online
+90883,2025-02-27,2885,Completed,Mobile App
+90884,2025-10-20,2909,Completed,Online
+90885,2025-12-20,1625,Canceled,MARKETPLACE
+90886,2025-10-27,2905,Returned,Mobile App
+90887,2025-08-28,1164,Pending,MOBILE APP
+90888,2025-06-11,3181,Completed,Mobile App
+90889,2025-05-19,2469,Completed,Mobile App
+90890,2025-07-25,1441,Completed,Online
+90891,2024-11-15,2119,Shipped,MARKETPLACE
+90892,2024-07-22,3341,Shipped,Mobile App
+90893,2025-09-08,3459,Completed,Online
+90894,2025-01-02,3038,Pending,Online
+90895,2025-12-29,2745,Completed,Store
+90896,2025-10-15,3205,Completed,App
+90897,2024-06-29,2504,Completed,Online
+90898,2025-04-10,3042,Completed,Online
+90899,2025-10-31,2392,Completed,Online
+90900,2025-01-08,1338,Completed,Store
+90901,2025-01-11,2180,Shipped,mobile app
+90902,2024-07-27,1964,Pending,Store
+90903,2024-05-08,2821,Returned,Store
+90904,2025-04-18,2370,completed,Mobile App
+90905,2025-08-21,1885,Completed,Online
+90906,2025-04-02,2546,Completed,online
+90907,2024-04-09,1530,Completed,Mobile App
+90908,2025-02-07,3447,Completed,Online
+90909,2025-02-09,2575,Completed,Online
+90910,2024-03-08,,shipped,Store
+90911,2025-10-15,2778,Shipped,Marketplace
+90912,2025-11-14,3046,Completed,Marketplace
+90913,2024-08-19,3370,Pending,In-Store
+90914,2024-12-13,3298,Completed,Mobile App
+90915,2024-11-28,3444,COMPLETED,Mobile App
+90916,2025-05-12,1930,Completed,Website
+90917,2025-10-31,1291,Completed ,Marketplace
+90918,2025-11-19,2832,Pending,Online
+90919,2024-07-03,2762,Completed,Mobile App
+90920,2025-02-30,2463,Completed,Online
+90921,2024-07-28,1521,Completed,Store
+90302,2024-02-27,2965,Completed,Website
+90922,2025-09-19,2573,COMPLETED,Online
+90923,2024-10-17,1321,Completed,Online
+90924,2024-03-06,1014,Returned,Marketplace
+90925,2024-06-21,3195,Completed,Online
+90926,2025-04-22,2850,Completed,Online
+90927,2025-05-02,2930,Completed,Online
+90928,2025-11-04,2371,Completed,Online
+90929,2025-06-08,2700,Completed,Mobile App
+90930,2025-04-29,3291,Pending,Mobile App
+90931,2025-11-10,2336,Cancelled,Online
+90932,2025-09-06,2175,Completed,ONLINE
+90933,2024-02-26,3455,Pending,App
+90934,2024-12-07,1697,pending,Mobile App
+90935,2025-05-22,2962,Completed,Marketplace
+90936,2025-05-05,2071,Completed,Mobile App
+90937,2025-01-28,2512,Completed,Online
+90938,2025-12-22,2275,Completed,mobile app
+90939,2025-05-08,1592,Returned,Mobile App
+90940,2025-09-15,2640,Completed,STORE
+90941,2025-10-18,1079,Completed ,Online
+90942,2024-01-06,1036,Pending,Online
+90943,2025-01-26,2164,Completed,Online
+90944,2025-07-15,3299,Completed,Online
+90945,2025-05-16,2448,Completed,Online
+90946,2025-07-26,2540,Completed,Online
+90947,2025-12-05,1665,Completed,Website
+90948,2025-09-05,99999,Completed,Online
+90949,2025-09-09,1971,Completed,Mobile App
+90950,2024-12-29,3102,Completed,Online
+90951,2024-05-27,3357,Complete,Mobile App
+90952,2025-06-15,1798,Completed,STORE
+90953,2024-02-20,2772,Completed,App
+90954,2025-01-20,1517,Completed,Online 
+90955,2024-10-13,2366,Pending,Online
+90956,2024-03-19,2605,Completed,Online
+90957,2024-10-20,1619,COMPLETED,mobile app
+90958,2024-05-21,2243,Completed ,Online
+90959,2025-07-20,1317,Completed,Online
+90960,2025-05-17,1415,Completed,Mobile App
+90961,2025-06-01,2293,Shipped,Mobile App
+90962,2025-01-29,2365,Returned,Online
+90963,2025-08-05,2176,Completed,Online
+90964,2025-01-18,3473,Completed,Store
+90965,2024-11-21,1370,Returned,App
+90966,2025-06-22,1639,Completed,Store
+90967,2025-03-25,3057,Completed,Mobile App
+90968,2025-06-21,2648,Completed,Online
+90969,2024-07-19,1821,Returned,Online
+90970,2024-12-04,1028,Completed,Marketplace
+90971,2024-11-12,2848,Completed,Online
+90972,2025-02-19,1991,Completed,Marketplace
+90973,2025-06-10,2799,COMPLETED,Online
+90974,2025-12-05,3264,Completed,Online
+90975,2025-05-05,3332,Completed,mobile app
+90976,2024-08-21,1501,Completed,Mobile App
+90977,2025-03-11,2264,Completed,Marketplace
+90978,2025-11-30,2570,Completed,Store
+90172,2024-09-09,1668,Complete,Mobile App
+90979,2025-10-14,3125,Cancelled,Online
+90980,2024-06-24,1527,Completed ,Online
+90981,2025-04-17,2498,Completed,Store
+90982,2025-11-26,1322,Return,Online
+90983,2024-11-22,1461,Completed,Store
+90984,2024-12-04,2557,Shipped,Mobile App
+90985,2025-07-25,2779,Completed,Online
+90986,2025-06-29,3295,Completed,store
+90987,2024-04-12,2207,Completed,Online
+90988,2025-11-27,2741,Pending,Online
+90989,2025-08-05,1293,COMPLETED,Mobile App
+90990,2024-12-12,2532,Completed,Online 
+90991,2025-09-24,3479,Completed,Online
+90992,2025-09-23,2064,Completed,In-Store
+90993,2024-05-02,3398,Completed,Website
+90994,2025-12-04,2714,Completed,Online
+90995,2025-12-07,1106,Completed,Online
+90996,2024-01-14,1182,Completed,Mobile App
+90997,2024-01-30,1931,Completed,Store
+90998,2025-12-02,1969,COMPLETED,Online
+90999,2025-04-18,1948,Complete,Online
+91000,2025-11-18,1708,Completed,online
+91001,2024-04-09,3221,Completed,Mobile App
+91002,2024-11-25,1355,Completed ,Mobile App
+91003,2024-09-05,3272,Pending,Online
+91004,2025-09-15,1634,Completed,Mobile App
+92361,2025-01-19,1548,Completed,Store
+91005,2024-04-26,1819,Completed,Store
+91006,2025-06-16,2030,Shipped,Online
+91007,2024-04-03,1281,Completed,Mobile App
+91008,2025-07-19,1052,Completed,Mobile  App
+91009,2024-08-07,1882,Completed ,Online
+91010,2025-11-05,3363,Completed,Mobile App
+91011,2024-12-23,1799,Completed,Mobile App
+91012,2024-08-01,1463,Completed,Mobile App
+91013,2025-11-24,1028,Completed,Store
+91014,2025-02-07,1924,Completed,Online
+91015,2024-01-03,1918,Completed,Store
+91016,2025-12-16,1801,completed,Online
+91017,NULL,1859,Completed,Store
+91018,2024-12-05,2042,Pending,Online
+91019,2024-11-04,2921,COMPLETED,MARKETPLACE
+91020,2025-08-26,2223,Completed,Store
+91021,2025-01-02,3193,Completed,Online
+91022,2025-04-28,1266,Completed,ONLINE
+91023,2025-05-03,1174,Completed,Marketplace
+91024,2025-02-04,1521,Shipped,Mobile App
+91025,2025-08-11,1642,COMPLETED,Mobile App
+91026,2025-02-23,1954,Shiped,Store
+91027,2024-08-01,3120,Completed,Store
+91028,2025-06-28,3165,Shipped,Store
+91029,2024-02-04,9999,Cancelled,Online
+91030,2025-01-18,1713,Completed,Store
+91031,2025-09-25,2687,Canceled,Mobile App
+91032,2025-12-16,2835,Cancelled,Mobile App
+91033,2024-08-17,3279,Returned,Store
+91034,2025-02-09,1028,Pending,Store
+91035,2024-01-01,2152,Completed,Store
+91036,2025-02-05,3269,Completed,Store
+91037,2024-12-19,2288,Completed,Store
+91038,2024-04-26,2145,Completed ,App
+91039,2025-05-01,1226,Shipped,Online
+91040,2025-05-11,2511,Returned,Online
+91041,2025-06-26,2595,Completed,Store
+91042,2025-11-14,2595,Completed,Online
+91043,2025-12-12,2599,Pending,Online
+91044,2025-11-24,1547,Complete,Online
+91045,2025-07-21,2898,Completed,store
+91046,2024-04-31,3319,Cancelled,Mobile App
+91047,2024-11-01,2460,Completed,Website
+91048,2025-06-03,1731,Completed,Store
+91049,2024-12-28,2087,completed,Mobile App
+91050,2024-07-16,1463,Completed,Mobile App
+91051,2025-12-06,2738,COMPLETED,Store
+91052,2025-06-25,3410,Completed,Mobile App
+91053,2025-10-09,1101,Completed,Online
+91054,2024-03-07,1482,Completed,Store
+91055,2025-01-07,1756,Completed ,Online
+91056,2024-04-02,2889,COMPLETED,Mobile App
+92258,2025-08-21,2128,Returned,Store
+91057,2025-06-19,2204,Completed,mobile app
+91058,2025-06-17,2630,Completed,Online
+91059,2025-07-16,1203,Completed,Store
+91060,2025-11-15,1718,Completed,Online
+91061,2025-05-13,1262,PENDING,Online
+91062,2025-11-11,2616,Completed,Online
+91063,2025-10-27,1503,In Progress,Online
+91064,2025-06-18,1021,Completed,Online
+91065,2025-04-26,2157,Completed,Mobile App
+91066,2024-08-05,2130,Completed,Online
+91067,2025-08-10,2879,Completed,Store
+91068,2025-03-05,1948,PENDING,Online
+91069,2024-12-21,2986,Completed,Mobile App
+91070,2025-11-05,1480,COMPLETED,Online
+91071,2024-10-25,2009,Completed,Online
+91072,2025-12-13,3427,Completed,Online
+91073,2024-08-28,2807,Returned,Online
+91074,2024-11-22,2279,Returned,Online 
+91075,2025-01-23,1794,Completed,Online
+91076,2025-08-14,2142,Returned,Marketplace
+91077,2024-01-09,3193,Cancelled,online
+91078,2025-09-16,3167,Completed,Mobile App
+91079,2024-03-12,1954,Complete,Online
+91080,2025-10-05,3388,Completed,Store
+91081,2025-04-17,2930,Completed,Marketplace
+91082,2024-10-17,1044,COMPLETED,Online
+91083,2024-10-14,2778,Completed,Mobile App
+91084,2024-02-12,2684,Completed,Store
+91085,2025-06-16,2736,Completed,Marketplace
+91086,2025-07-06,2587,Shipped,Mobile App
+91087,2025-10-03,2331,completed,Online
+91088,2024-03-12,1950,Returned,Online
+91089,2025-03-25,1344,Completed ,Online
+91090,2025-06-13,2356,Pending,Mobile App
+91091,2024-12-25,1667,Returned,Store
+91092,2025-05-03,99999,Cancelled ,Mobile App
+91093,2024-05-29,1041,Completed,Mobile App
+91094,2025-06-26,1544,Completed,Mobile  App
+91095,2025-02-18,1472,Completed,Mobile App
+91096,2025-03-24,2723,Completed,Mobile App
+91097,2024-12-23,1913,Shipped,Online
+91098,2025-07-21,2203,Completed,Mobile App
+91099,2025-01-30,1305,Completed,Mobile App
+91100,2025-08-21,2807,Completed,Store
+91101,2024-11-30,3457,Completed,Marketplace
+91102,2025-04-08,1611,Completed,Online
+91103,2025-06-07,3474,Completed,Online
+91104,2025-11-03,2839,Shipped,Online
+91105,2025-04-29,1871,Return,Online
+91106,2025-07-07,2513,Shipped,Marketplace
+91107,2025-08-14,1802,Completed,Online
+91108,2025-11-05,2003,Completed,Online
+91109,2025-07-10,1978,Completed,Online
+91110,2024-01-11,2345,Completed,MOBILE APP
+91111,2024-10-14,2514,Returned,Store
+91112,2025-02-14,1909,Completed ,Marketplace
+91113,2024-02-26,2987,Completed,Store
+91114,2025-06-06,2216,Completed,Store
+91115,2025-05-11,2928,shipped,Store
+91116,2024-08-06,3286,Pending,Marketplace
+91117,2025-06-02,1015,Completed,Mobile App
+91118,2024-01-13,2685,Completed,Store
+91119,2025-03-20,2668,Complete,Mobile App
+91120,2025-04-22,3017,Cancelled,store
+91121,2025-10-27,1897,Pending,Online
+91122,2024-12-04,2502,Completed,Mobile  App
+91123,2025-02-30,2959,Completed,Mobile App
+91124,2024-10-01,2232,Pending,Online
+91125,2025-07-15,1362,Completed,Mobile App
+91126,2024-09-03,3194,Returned,Online
+91127,2025-10-17,2617,Completed,Marketplace
+91128,2025-06-26,3438,Completed,Mobile App
+91129,2024-09-15,3275,Completed,Store
+91130,2025-11-19,2619,Cancelled,mobile app
+91131,2024-11-16,3188,Cancelled,Marketplace
+91132,2024-09-21,2549,Completed,Mobile App
+91133,2024-03-25,2030,Shipped,Store
+91134,2025-12-05,1250,Completed,Online
+91135,2025-11-09,2293,Completed,Online
+91136,2024-08-30,2689,Completed,Online
+91137,2024-12-27,1164,Completed,Store 
+91138,2025-04-05,1368,Completed,Marketplace
+91139,2024-02-20,2744,completed,Store
+92134,2024-02-20,2412,Completed,Online
+91140,2025-12-28,1271,Completed,Mobile App
+91141,2024-10-28,2565,Cancelled,Mobile App
+91142,2025-11-16,2265,Completed,Online
+91143,2025-04-03,1952,Completed,Online
+91144,2025-09-22,2545,Completed,Online
+91145,2025-01-26,2294,Completed ,Mobile App
+91146,2025-03-20,2603,Completed,Online
+91147,2025-12-09,2044,Returned,Online
+91148,2024-05-05,2694,Completed,Online
+91149,2025-05-08,2667,Shipped,Online
+91150,2024-09-12,1087,Completed,Online
+91151,2024-06-02,3175,Shipped,Store
+91152,2024-05-13,1708,Completed,Store
+91153,2024-10-02,2134,Completed,Mobile App
+91154,2025-02-21,1329,Shipped,Store
+91155,2024-03-26,2259,Completed,Store
+91156,2024-05-26,1427,Completed,Mobile App
+91157,2024-05-29,1134,Complete,Store
+91158,2025-11-28,1999,Shipped,Mobile App
+91159,2025-03-26,2985,Completed,Store
+91160,2024-10-07,2237,Completed,Online
+91161,2025-10-07,3293,Completed ,Mobile App
+91162,2025-01-05,1382,Completed,Mobile App
+91163,2025-10-21,2778,completed,Online
+91164,2024-10-05,2315,Completed,Store
+91165,2025-11-29,1247,Completed,Online
+91166,2025-05-19,1499,Completed,Online
+91167,2025-06-05,2747,Completed,Store
+91168,2025-10-22,2292,Pending,Online
+91169,2024-05-23,1991,COMPLETED,MOBILE APP
+91170,2025-10-15,2107,Completed,ONLINE
+91171,2025-04-05,2509,Completed,Online
+91172,2024-08-22,1931,Pending,Online
+91173,2024-07-24,1024,pending,Mobile App
+92165,2025-12-21,3035,Completed ,Online
+91174,2025-07-25,2903,Pending,Store
+91175,2024-09-12,1856,Completed,Online
+91176,2024-11-29,1945,Completed,Online
+91177,2025-11-20,2010,Completed ,Store
+91178,2024-12-27,1109,Completed,Online
+91179,2024-10-20,3382,Completed,Mobile App
+91180,2025-10-22,2224,Completed,Store
+91181,2024-01-30,1649,Completed,Mobile App
+91182,2025-09-02,3490,Cancelled,Mobile App
+91183,2025-06-26,2887,COMPLETED,Mobile App
+91184,2025-01-30,2322,Completed,Online
+91185,2024-11-22,1108,completed,Online
+91186,2025-11-02,1486,Completed ,Online
+91187,2024-05-18,2158,Completed,Online
+91188,2025-12-04,2237,Cancelled,mobile app
+91189,2025-08-29,2595,Completed,Mobile App
+91190,2025-07-31,1576,Pending,Online
+91191,2024-08-09,2948,Completed,Mobile  App
+91192,2025-09-25,1884,Completed,Online
+91193,2025-08-16,1318,Completed,Online
+90503,2024-03-14,3460,Pending,Marketplace
+91194,2024-09-13,1270,Pending,Online
+91195,2025-07-01,1322,Cancelled,Store
+91196,2025-11-19,1861,Completed,Mobile App
+91197,2025-07-16,3166,Completed,Store
+91198,2024-02-11,1481,Cancelled,Store
+91199,2025-08-30,1692,Completed,Mobile App
+91200,2025-02-21,2047,Completed,Online
+91201,2025-03-23,3424,Completed,Mobile App
+91202,2025-11-14,2530,completed,Marketplace
+91203,2024-06-06,,Completed,online
+91204,2025-11-21,2762,Completed,Online
+91205,2025-04-20,1664,Shipped,Store
+91206,2024-09-10,2637,Complete,Mobile App
+91207,2024-09-24,2819,Completed,ONLINE
+91208,2025-08-13,1497,Completed,Online
+91209,2025-05-02,1733,Completed,Online
+91210,2025-10-25,2777,Cancelled,Online
+91211,2025-06-16,2096,Pending,Mobile App
+91212,2025-04-03,2632,Completed ,Online
+91213,2024-11-16,1333,Cancelled,Online
+91214,2024-10-09,2883,Completed,Online
+91215,2024-04-04,1579,Shipped,Online
+91216,2025-12-18,3179,Pending,Online
+91217,2025-02-02,3306,Completed,Marketplace
+91218,2024-12-23,1701,Completed ,Marketplace
+91219,2024-12-09,2481,Returned,Online
+91220,2025-12-11,2478,Completed,Online
+91221,2025-02-09,1924,Cancelled,Mobile App
+91222,2025-10-24,99999,Completed,Store
+91223,2024-04-20,3003,Shipped,Online
+91224,2025-12-22,1388,cancelled,Online
+91225,2025-08-15,2329,Shipped,Online
+91226,2025-04-02,1397,Completed,Store 
+91227,2025-05-04,1450,Completed,ONLINE
+91228,2025-08-25,3017,Completed,Mobile App
+91229,2025-12-25,2867,Completed,Marketplace
+91230,2025-11-23,,Completed,Store
+91231,2024-04-11,3330,Completed,Online
+91232,2025-10-15,1919,Returned,Mobile App
+91233,2024-12-07,1659,Completed,Store
+91234,2025-07-27,2093,Completed ,online
+91235,2024-02-10,1209,Completed,Online
+91236,2024-02-10,,Completed,Mobile App
+91237,2024-03-19,1117,Completed,Online
+91238,2025-07-04,1426,Completed,Store
+91239,2024-11-13,2036,Completed,Mobile App
+91240,2025-12-09,1779,Completed,Online
+91241,2025-05-27,1990,Completed,Mobile App
+91242,2024-07-21,3250,Pending,Mobile App
+91243,2024-03-21,2566,COMPLETED,Online
+91244,2024-09-26,1900,Completed,Website
+91245,2025-07-06,2205,Completed,Online
+91246,2025-07-21,1165,Completed,Mobile App
+91247,2025-06-04,1042,Completed,Online
+91248,2025-10-22,1084,Completed,Mobile App
+91249,2025-04-09,2588,Completed,Mobile App
+91250,00-00-0000,3163,Completed,Mobile App
+91251,2025-04-22,3033,Completed,Online
+91367,2025-09-05,1937,Completed,Online
+91252,2024-01-09,1817,Completed,Online
+91253,2025-06-24,2046,Returned,Marketplace
+91254,2025-12-01,2561,Completed,Online
+91255,2025-04-09,3128,Completed,Marketplace
+91256,2024-08-09,1529, Pending,Mobile App
+91257,2025-10-10,1133,Canceled,Online
+91258,2025-12-08,1788,Completed,Online
+91259,2025-03-08,1189,Completed,mobile app
+91260,2024-01-18,3149,Returned,Online
+91261,2024-04-26,3066,Pending,STORE
+91262,2025-12-29,,Returned,Online
+91263,2025-03-26,3205,Completed,Online
+91264,2025-04-04,1065,Completed,Marketplace
+91265,2024-09-28,2577,Completed,Marketplace
+91266,2024-12-18,1829,Completed,Online
+91267,2025-08-19,2342,Completed,Online
+91268,2025-11-29,1512,Completed,Mobile App
+91269,2024-11-26,3347,Completed,Online
+91270,2025-10-20,1793,COMPLETED,Online
+91271,2025-10-16,3266,Completed,In-Store
+91272,2024-11-30,1305,Completed,Mobile App
+91273,2025-02-27,1655,Completed,Online
+91274,2025-05-10,2412,Returned,Store
+91275,2025-07-24,2101,Completed,Online
+91276,2025-06-03,1970,Cancelled,Mobile App
+91277,2024-01-22,1373,Pending,Mobile App
+91278,2025-04-08,2033,Completed ,Online
+91279,2024-09-26,2507,Completed,Store
+91280,2025-06-13,1244,Completed,Mobile App
+91281,2024-09-07,2356,Shipped,Mobile App
+91282,2025-05-07,2662,Completed,Store
+91283,2024-08-01,3126,Completed,Online
+91284,2025-10-31,1294,Completed,Store
+91285,2025-11-15,1726,Completed ,Online
+91286,2025-06-08,2689,Shipped,Online 
+91287,2025-09-02,1267,Complete,Online
+91288,2025-06-26,1728,Completed,Online
+91289,2025-06-08,1543,Completed,Online
+91290,2025-02-20,2072,Completed,Online
+91291,2025-09-24,1048,completed,Online
+91292,2024-03-25,2724,Completed ,Online
+91293,2024-07-06,3109,Completed,Store
+91294,2025-11-17,3435,Completed,Store
+91295,2025-01-14,3376,Shipped,Online
+91296,2025-12-27,3016,Completed,Online
+91297,2024-09-16,2416,Cancelled,Online
+91298,2025-06-07,2979,Completed,Store
+91299,2025-11-20,3039,Completed,Store
+91300,2025-10-25,1567,Completed,Marketplace
+91301,2025-04-14,2149,Completed,Mobile App
+91302,2025-07-30,3432,Completed,Online
+91303,2025-05-21,1623,SHIPPED ,Mobile App
+91304,2024-07-14,2909,Completed,online
+91305,2024-10-18,2904,Completed,Store
+91306,2024-02-16,99999,Completed,Store
+91307,2025-04-25,2121,Completed,Marketplace
+91308,2025-03-10,2680,Cancelled,Marketplace
+91309,2024-06-22,3076,Shipped,Mobile App
+91310,2025-06-25,1194,Completed,Online
+91311,2024-02-13,2431,Completed,Mobile App
+91312,2024-10-29,1911,Cancelled,Mobile App
+91313,2025-12-20,1377,Completed,Online
+91314,2024-12-31,1656,Shipped,Marketplace
+91315,2025-11-10,3307,Return,Mobile App
+91316,2025-07-22,3041,Completed,Store
+91317,2025-10-01,3319,Completed,Online
+91318,2025-10-02,1832,Completed ,Mobile App
+91319,2025-06-18,1220,Completed,Online
+91320,2025-12-17,1611,Completed,Store
+91321,2025-03-12,2848,completed,Marketplace
+91322,2025-08-27,1359,Shipped,online
+91323,2024-11-11,1590,Completed,Online
+91324,2025-05-31,2878,Completed,Mobile App
+91325,2025-10-14,1820,Shipped,store
+91326,2024-12-23,3493,Completed,Mobile App
+91327,2025-03-01,1190,Completed,Mobile App
+91328,2025-12-14,3121,COMPLETED,In-Store
+91329,2025-02-06,1404,Completed,Store
+91330,2025-08-16,3087,Cancelled,Online
+91331,2024-05-24,3376,COMPLETED,mobile app
+91332,2025-07-23,2607,Completed,Online
+91333,2024-04-25,3251,Completed,Online
+91334,2025-10-31,1968,Completed,Marketplace
+91335,2024-12-11,2020,Completed,Market Place
+91336,2025-10-04,1105,Completed,Store
+91337,2024-09-09,2237,Cancelled,Marketplace
+91338,2024-06-04,1302,CANCELLED,Mobile App
+91339,2025-05-13,2485,Completed,Mobile App
+91340,2025-06-08,3270,Completed,online
+91341,2025-07-18,1311,Completed,Store
+91352,2025-04-29,2049,Completed ,mobile app
+91342,2025-01-12,3170,Completed,Mobile App
+91343,2024-02-18,1969,Completed,ONLINE
+91344,2024-01-29,2931,Completed,Online
+91345,2025-04-11,3018,Pending,Mobile App
+91346,2024-05-03,2249,Completed,Mobile App
+91347,2025-10-10,1980,Pending,Mobile App
+91348,2025-09-09,1598,Completed,Online
+91349,2024-10-03,123,Completed,MOBILE APP
+91350,2024-10-27,2666,Completed,Online
+91351,2025-05-29,1613,Completed,Mobile App
+91352,2025-04-29,2049,Completed ,mobile app
+91353,2024-02-17,2977,Pending,Online
+91354,2025-02-05,2406,Shipped,Mobile App
+91355,2024-04-25,2514,completed,Store
+91356,2025-07-19,1269,Completed,Store
+91357,2025-04-09,1580,Cancelled,Online
+91358,2025-05-15,2476,Completed,Mobile App
+91359,2025-10-14,2580,Completed,Store 
+91360,2025-09-11,2091,Pending,store
+91361,2025-04-24,1474,completed,Online
+91362,00-00-0000,1623,Completed,Mobile App
+91363,2025-07-09,3019,Completed,Online
+91364,2024-12-17,1058,Completed,Mobile  App
+91365,2025-02-19,1033,Completed,Online
+91366,2025-07-06,99999,Shipped,Mobile App
+91367,2025-09-05,1937,Completed,Online
+91368,2025-04-19,1877,Completed,Store
+91369,2025-10-03,1855,COMPLETED,Store
+91370,2025-11-11,2591,Cancelled,Marketplace
+91371,2025-02-30,1992,completed,Mobile App
+91372,2024-02-12,3003,Completed,Marketplace
+91373,2025-06-01,2046,Completed,Online
+91374,2025-04-03,2360,Pending,Mobile App
+91375,2024-08-20,2114,Completed,Online
+91376,2025-12-16,3304,Completed,Online
+91377,2024-08-11,1619,Completed,Online
+91378,2024-04-08,1986,Completed,Online
+91379,2024-12-06,3242,pending,Online
+91380,2025-06-26,1966,Completed,Store
+91381,2024-11-23,2946,Shipped,Online
+91382,2024-09-01,2488,Completed,Marketplace
+91383,2025-05-28,3134,Completed,Mobile App
+91384,2025-10-01,1902,Completed,Online
+91385,2025-06-16,3305,completed,Online 
+91386,2025-10-02,1580,Completed,Store
+91387,2024-09-28,2973,Completed,Mobile App
+91388,2024-11-07,3398,Completed,Store
+91389,2025-12-06,1547,Pending,Mobile App
+91390,2025-06-18,1757,Completed,Marketplace
+91391,2024-05-24,1310,Completed,Mobile App
+91392,2024-07-08,3093,Completed,Mobile App
+91393,2025-05-10,1196,RETURNED,Store
+91394,2025-01-30,1445,Completed,Store
+91395,2024-06-20,2619,COMPLETED,Store
+91396,2024-09-02,3434,Completed,Online
+91397,2024-04-27,2984,Pending,Mobile App
+91398,2024-06-22,3195,Completed,Mobile App
+91399,2024-10-01,1245,Shipped,In-Store
+91400,2024-01-23,2307,completed,Store
+91401,2025-04-04,2041,Shipped,Store
+91402,2025-12-16,3271,Completed,Online
+91403,2025-04-26,2844,Completed,Mobile App
+91404,2025-05-15,3168,Shipped,Online
+91405,2025-10-19,2110,Completed,Online
+91406,2025-04-03,1575,Shipped,Online
+91407,2024-10-24,2906,Pending,Mobile App
+91408,2025-12-04,1817,Cancelled,STORE
+91409,2025-02-03,2563,Returned,Online
+91410,2025-06-27,3213,COMPLETED,Store
+91411,2025-03-11,1102,Pending,Store 
+91412,2024-01-25,1040,CANCELLED,Online
+91413,2024-04-20,1810,Completed,Online
+91414,2025-10-14,3101,Cancelled,Online
+91415,2024-12-19,1354,Completed,Store
+91416,2025-02-03,1036,Completed,Store
+91417,2025-10-08,3344,Completed,Online
+91418,2025-09-04,1112,Completed,Online
+91419,2025-12-16,2013,Completed,Online
+91420,2024-02-21,2933,Completed,Store
+91421,2025-03-23,2833,Completed,Mobile App
+91422,2025-12-25,1577,Completed,Mobile App
+91423,2025-06-30,2565,Cancelled,Online
+91424,2024-11-03,1611,Completed,Store
+91425,2024-07-25,1876,Completed,Online 
+91426,2025-11-20,2625,Completed,Mobile App
+91427,2025-10-07,2164,Completed,Mobile App
+91428,2025-08-27,1808,Completed,Store
+91429,2025-09-18,1788,Completed,Store
+91430,2025-05-22,2055,Pending,STORE
+91431,2024-10-02,2289,Completed,Mobile  App
+91432,2025-09-09,2571,Cancelled,Store
+91433,2024-01-28,2169,Completed,Mobile App
+91434,2025-07-06,3339,Completed,Online
+91435,2025-05-07,2376,Completed,Online
+91436,2025-04-18,9999,Completed ,Marketplace
+91437,2025-09-07,2580,Pending,Online
+91438,2024-01-21,3440,RETURNED,Online
+91439,2025-11-20,2575,Shipped,Online
+91440,2024-09-17,2568,Completed,Online
+91441,2025-08-19,2203,Completed ,Store
+91442,2024-07-18,1898,Completed,Online
+91443,2025-12-22,99999,Shipped,Online
+91444,2024-05-17,2248,Completed,Mobile App
+91445,2025-01-29,3017,Completed,Online
+91446,2025-03-14,1385,Cancelled,App
+91447,2024-10-10,2444,Completed,Online
+91448,2024-10-11,2757,Completed,Marketplace
+91449,2025-11-24,2129,Complete,Store
+91450,2025-12-21,2432,Completed,Store
+91451,2025-11-19,2636,Cancelled,Mobile App
+91452,2025-08-06,3448,Shipped,Online
+91453,2025-04-22,1865,COMPLETED,Mobile App
+91454,2024-05-11,2344,Completed,Online
+91455,2024-04-15,2422,Completed,online
+91456,2024-12-05,1083,Completed,Mobile App
+91457,2025-03-11,1507,Completed,Online
+91458,2025-02-14,2750,Completed,Store
+91459,2024-04-18,1586,Completed,Online
+91460,2025-05-27,1144,Cancelled,Store
+91461,2025-01-11,3383,Completed,Store
+91462,2025-06-08,3253,Returned,Website
+91463,2025-05-01,3377,Completed,Mobile App
+91464,2025-12-29,3094,Completed,Store
+91465,2025-05-24,2370,Shipped,Online
+91466,2024-07-22,1515,Complete,Online
+91467,2024-07-03,3496,Completed,Store
+91468,2025-07-28,2774,Shipped,Online
+91469,2025-08-06,2988,Completed,Mobile App
+91470,2025-09-16,1818,Returned,Store
+91471,2025-09-16,2715,Completed,Mobile App
+90635,2025-02-21,3124,COMPLETED,Online
+91472,2025-10-05,1131,Pending,MOBILE APP
+91473,2025-09-07,1769,Completed,Online
+91474,2024-09-09,2091,Shipped,Mobile App
+91475,2024-08-24,1424,Completed,Store
+91476,2025-06-18,1289,Completed,Online
+91477,2025-09-01,2232,Completed,Marketplace
+91478,2025-10-05,1577,Completed,Online
+91479,2025-03-07,1165,Cancelled,Mobile App
+91480,2025-06-15,3194,Completed,Online
+91481,2025-12-10,1549,Completed,Store
+91482,2024-05-23,1470,Completed,Online
+91483,2024-11-01,3446,Returned,Online
+91484,2025-08-30,1098,Completed,Online
+91485,2025-05-05,99999,Completed,Online
+91486,2024-07-20,1444,Completed,Store
+91487,2025-06-11,2145,Completed,Online
+91488,2024-09-24,2588,Returned,Online
+91489,2024-12-28,2229,Completed,Online
+91490,2025-03-16,3408,Completed,Mobile App
+91491,2025-11-22,2501,Returned,STORE
+91492,2024-06-25,3144,Complete,Mobile App
+91493,2025-08-25,2385,Pending,Online
+91494,2025-03-07,2946,Returned,Online
+91495,2024-06-13,1384,Completed,Mobile App
+91496,2025-04-23,2883,Pending,Mobile App
+91497,2025-10-26,2402,Completed,Online
+91498,2024-08-12,1103,Completed,Online
+92400,2025-12-09,2540,Completed,Marketplace
+91499,2025-09-13,2783,Cancelled,Market Place
+91500,2025-09-15,3096,Completed,Store
+91501,2025-12-12,2222,Completed,Mobile App
+91502,2025-03-24,2621,Completed,Mobile App
+91503,2024-02-16,2136,Returned,Online
+91504,2025-10-18,3265,Completed,Online
+91505,2024-05-09,1569,Completed,Online
+91506,2024-09-05,3259,Completed,Store
+91507,2025-02-01,2224,Cancelled,Store
+91508,2025-06-20,3395,Completed,Mobile App
+91509,2024-12-20,1651,Completed,Online
+91510,2024-11-28,1192,Completed ,Store
+91511,2025-04-09,1830,Completed ,Store
+91512,2025-11-02,1288,Completed,Mobile App
+91513,2024-11-25,1677,Completed,Mobile App
+91514,2024-11-15,1807,Completed,Online
+91515,2024-06-30,1818,Completed,Online
+91516,2024-05-16,1534,Cancelled,Store
+91517,2024-06-07,2545,Completed,Mobile App
+91518,2024-12-14,1949,Completed,Online
+91519,2024-04-10,3207,CANCELLED,App
+91520,2025-12-18,2054,Completed,Mobile App
+91521,2025-09-26,3439,completed,In-Store
+91522,2025-04-19,1197,Completed,Online
+91523,2025-05-01,1484,Pending,Online
+91524,2025-04-03,1213,Completed,Store
+91525,2025-11-25,1757,Completed,Online
+91526,2025-10-08,1403,COMPLETED,Marketplace
+91527,2024-12-04,2152,Completed,Mobile App
+91528,2025-08-01,123,Pending,Online
+91529,2024-10-12,2649,Completed,In-Store
+91530,2025-09-16,3345,Complete,Mobile App
+91531,2025-09-02,3321,Cancelled,Online
+91532,2024-10-06,2632,Completed,MOBILE APP
+92431,2025-03-26,1013,Shipped,Mobile App
+91533,2025-03-26,1109,Completed,Online
+91534,2025-03-26,2445,Completed,Store
+91535,2025-05-12,2359,Completed,Mobile App
+91536,,3095,Completed,In-Store
+91537,2025-01-13,2052,Completed,Mobile App
+91538,2024-12-19,2838,Shipped,Mobile App
+91539,2024-02-13,1718,Completed,Store
+91540,2025-07-10,2516,Cancelled,Store
+91541,2025-06-15,2331,Completed,MOBILE APP
+91542,2025-10-06,3437,Completed,App
+91543,2024-10-05,1907,Completed,Online
+91544,2024-06-08,2244,Shipped,Mobile App
+91545,2025-08-25,1797,Complete,Mobile App
+91546,2024-09-16,1259,Completed,Online
+91547,2025-08-15,2744,Cancelled,Store
+91548,2025-08-15,3208,Completed,Mobile App
+91549,2024-06-28,2405,Returned,Online
+91550,2025-04-24,1639,Completed,Mobile App
+91551,00-00-0000,1197,Complete,STORE
+91552,2025-01-16,3280,Completed,Online
+91553,2024-06-13,1016,Completed,Online
+91554,2024-08-03,2453,Completed,Mobile App
+91555,2025-01-29,2908,Completed ,Store
+91556,2025-07-28,3416,Completed,Online
+91557,2024-10-30,2098,Completed,MARKETPLACE
+91558,2024-08-19,2780,Complete,Online
+91559,2025-04-30,3137,Completed,Online
+91560,2024-12-24,1935,Completed,Mobile App
+91561,2025-10-23,3364,Completed,Mobile App
+91562,2025-12-11,2590,Completed,Store
+91563,2024-11-01,3073,Completed,Online
+91564,2025-03-07,3356,completed,Mobile App
+91565,2025-10-27,1088,Completed,Mobile App
+91566,2024-12-29,1822,Completed,Online
+91567,2025-07-13,1855,Completed,Online
+91568,2024-01-19,3167,Completed,Mobile App
+91569,2025-09-27,2949,Completed,ONLINE
+91570,2025-05-13,2280,Completed,Online
+91571,2025-04-24,2831,Completed,Mobile App
+91572,2024-05-12,2197,Completed,Mobile App
+91573,2024-09-28,1119,Completed,Mobile App
+91574,2025-10-25,2765,Completed,Mobile App
+91575,2025-09-03,3090,Returned,Store
+91576,2025-03-31,2496,Completed,Store
+91577,2025-06-17,2229,completed,Mobile App
+91578,2024-12-14,2757,Returned,Mobile App
+91579,2025-08-25,3226,Complete,Online
+91580,2024-09-15,1207,Completed,Store
+91581,2025-05-27,1983,Completed,Online
+91582,2024-08-21,123,Completed,Mobile App
+91583,2025-04-12,1042,Cancelled,Online
+91584,2024-07-28,2859,Completed,Marketplace
+91585,2025-04-22,2415,Completed,Store 
+91586,2025-12-02,3028,Pending,Mobile App
+91587,2025-04-22,2159,Completed,Mobile App
+91588,2025-09-30,1747,Completed,store
+91589,2025-07-07,1888,Completed,Store
+91590,2024-03-10,2622,Completed,Mobile App
+91591,2025-09-28,2896,Completed,Marketplace
+91592,2024-05-05,3082,Completed,Mobile App
+91593,2024-07-28,2495,Completed,Online
+91594,2024-12-10,3352,CANCELLED,Mobile App
+91595,2025-07-05,2443,Shipped,Online
+91596,2025-12-31,1766,Completed,Mobile App
+91597,2025-12-20,3201,Return,Marketplace
+91598,2024-10-15,2438,Shipped,Marketplace
+91599,2025-12-10,1699,Completed,Store
+91600,2025-06-22,2246,Cancelled,Marketplace
+91601,2025-12-10,3160,Completed,Store
+91602,2025-06-12,2991,Completed,Marketplace
+91603,2024-12-19,2306,Completed,Mobile App
+91604,2025-02-26,1476,Completed,Mobile App
+91605,2025-03-19,2407,Completed,Store
+91606,2024-11-12,2779,Completed,Store
+91607,2025-04-29,2559,Cancelled,Mobile App
+91608,2025-10-06,1631,Completed,Marketplace
+91609,2024-09-22,1147,Completed,online
+91610,2025-02-03,2122,Completed,Store
+91611,2024-02-20,2649,Completed,Marketplace
+91612,2025-01-09,1149,Completed,Online
+91613,2025-06-30,3359,Completed,Online
+91614,2025-12-19,2272,Completed,Online
+91615,2024-10-26,2277,Shipped,Mobile App
+91616,2025-12-19,2586,Completed,Online
+91617,2024-03-12,1770,Completed,Mobile  App
+91618,2024-10-12,1155,Pending,Mobile App
+91619,2025-03-25,2011,Completed,Mobile App
+91620,2025-07-21,1861,Completed,Mobile App
+91621,2025-12-02,2707,Completed,Online
+91622,2025-10-12,2637,Completed,Store
+91623,2024-12-14,2067,Completed,Online
+91624,2024-06-26,1251,Completed,Marketplace
+91625,2025-06-26,2914,Completed,Mobile App
+91626,2024-08-12,2064,Completed,Store
+,2025-12-11,2184,Completed,Mobile App
+91628,2024-07-05,1950,Returned,Online
+91629,2025-01-15,2222,Cancelled,Online
+91630,2024-10-19,2113,Completed,Marketplace
+91631,2025-07-28,1386,Completed,Online
+91632,2024-03-01,3143,Completed,Mobile App
+91633,2025-01-16,2495,Pending,Mobile App
+91634,2024-12-19,1847,completed,Online
+91635,2024-12-27,1313,Pending,Mobile App
+91636,2025-01-14,1343,Completed,Online
+91637,2025-06-03,3466,Completed,Marketplace
+91638,,2058,Completed,Marketplace
+91639,2025-03-24,2839,Pending,Mobile App
+91640,2025-05-26,1808,Completed,Store 
+91641,2025-12-06,2135,Cancelled,Online
+91642,2025-05-26,2779,Completed,Marketplace
+91643,2025-08-14,1982,Completed,Mobile App
+91644,2024-08-31,2309,Pending,Online
+91645,2025-04-20,1927,Completed,Online
+91646,2025-11-23,2922,Completed,Store
+91647,2025-12-22,2051,Completed,Mobile App
+91648,2025-03-31,2770,Completed,Online
+91649,2024-04-29,1533,Completed,Store
+91650,2025-10-10,1195,Pending,Store
+91651,2024-05-31,,Completed,Online
+91652,2025-07-30,1759,Cancelled,Store
+91653,2025-05-20,2444,Completed,Marketplace
+91654,2025-12-04,2288,Completed,Store
+91655,2025-11-09,2039,Completed,Mobile App
+91656,2024-09-22,1976,Complete,Store
+91657,2025-06-22,2832,Completed,Mobile App
+91658,2025-01-10,1742,Completed,Online
+91659,2025-04-01,2454,Completed,Online 
+91660,2025-02-17,1252,Completed,Mobile App
+91661,2025-10-10,2938,Cancelled,Online
+91662,2025-10-30,1656,Returned,Store
+91663,2024-12-07,1560,returned,Online
+91664,2024-07-06,1892,COMPLETED,Store
+91665,2025-10-22,3052,Completed,Mobile App
+91666,2025-02-22,1880,Completed,Online
+91667,2025-08-07,2563,Pending,Online
+91668,2024-09-08,2902,Completed,Mobile App
+91669,2024-12-02,2196,Completed,Website
+91670,2025-02-23,2440,Cancelled,Online
+91671,2025-11-14,2353,Completed,Store
+91672,2025-09-16,2795,Completed,Store
+91673,2025-05-20,1742,Completed,Store
+91674,2024-12-24,2370,Completed ,Store
+91675,2025-11-16,1451,Shipped,Online
+91676,2024-01-22,1508,Completed,Store
+91677,2025-07-14,3025,Pending,Mobile App
+91678,2025-11-08,2714,Completed,Mobile App
+91679,2025-12-24,1098,Shipped,Store
+91680,2025-06-15,2975,Returned,Online
+91681,2025-08-21,2613,Completed,Online
+91682,2024-09-25,3490,Completed,Online
+91683,2025-05-13,,completed,Mobile App
+91684,2025-02-05,1406,SHIPPED ,Online
+91685,2024-07-15,3246,Completed,Mobile App
+91686,2024-03-08,1414,Completed,Mobile App
+91687,2024-03-07,2366,Completed,Online
+91688,2024-01-11,2731,Shipped,Store
+91689,2025-07-06,2615,Shipped,mobile app
+91690,2024-04-17,2807,Completed,Marketplace
+91691,2024-06-26,3019,Shipped,Online
+91692,2025-07-28,3039,Completed,Online
+91693,2025-05-10,3439,Completed,ONLINE
+91694,2025-07-08,2054,COMPLETED,Online
+91695,2025-11-28,1534,Completed,Online
+91696,2025-02-10,1200,Pending,Mobile App
+91697,2024-07-13,2322,Completed,Store
+91698,2024-06-23,1740,Pending,Online
+91699,2024-10-03,2999,Completed,Store
+91700,2024-01-13,2424,COMPLETED,Store
+91701,2025-06-23,2083,Cancelled,Store
+91702,2025-07-04,2511,Completed,Mobile App
+91703,2025-02-30,2865,Completed,Marketplace
+91704,2025-12-10,3176,Returned,Online
+91705,2024-12-29,1910,Completed,In-Store
+91706,2024-09-03,2309,Completed,Store
+91707,2024-09-15,3393,Completed,Store
+91708,2025-11-13,2590,COMPLETED,Mobile App
+91709,2024-03-10,2992,Completed,Online
+91710,2024-10-26,3384,Shipped,Store
+91711,2024-12-11,2548,Shipped,Mobile App
+91712,2025-11-08,3346,Cancelled,Online
+91713,2025-11-15,1559,Completed,MOBILE APP
+91714,2024-04-17,1762,Completed,Store
+91715,2025-02-20,3475,Completed,Store
+91716,2024-11-17,2334,Completed,Mobile App
+91717,2025-07-04,2050,Completed,Store
+91718,2025-08-10,1713,Cancelled,Online
+91719,NULL,1793,Completed,Store
+91720,2024-12-30,1994,In Progress,Online
+91721,2025-03-20,9999,Completed,Mobile App
+91722,2025-09-30,2799,Completed,Mobile App
+91723,2025-11-30,1441,Canceled,Store
+91724,2025-08-02,1212,Completed,Online
+91725,2024-12-17,3319,Completed ,Mobile App
+91726,2024-07-17,3196,Completed,Marketplace
+91727,2025-08-29,2630,Completed,ONLINE
+91728,2025-06-15,1568,Completed,Online
+91729,2025-06-06,1848,Completed,Store
+91730,2025-01-18,2461,Completed,Online
+91731,2025-10-23,1963,Completed,Store
+91732,2024-03-03,1817,Completed,Mobile App
+91733,2025-10-13,2407,Completed,Online
+91734,2024-12-29,2239,Completed,Mobile App
+91735,2025-07-01,1727,Pending,Marketplace
+91736,2025-08-22,2328,PENDING,Online
+91737,2025-07-08,3431,Pending,Mobile App
+91738,2025-12-17,3129,Pending,Online
+91739,2025-11-10,3364,Completed,Store
+91740,2025-08-10,1778,COMPLETED,Mobile App
+91741,2025-10-25,2145,Shipped,Online
+91742,2024-11-11,2259,Completed ,Online
+91743,2024-10-25,1978,Shipped,Mobile App
+91744,2025-07-04,2541,Completed,MOBILE APP
+91745,2025-08-31,2677,Completed,Online
+91746,2025-11-09,2454,Completed,Website
+91747,TBD,1960,Completed,Store
+91748,2025-11-02,2872,Cancelled,Online
+91749,2025-07-04,1143,Completed,Online
+91750,2024-11-06,2303,completed,Mobile App
+91751,2025-02-02,3049,Completed,ONLINE
+91752,2025-09-10,2902,Cancelled,Online
+91753,2024-07-09,3085,Completed,Mobile App
+91754,2025-10-12,1289,Completed,Online
+91755,2025-06-30,1489,Completed,Mobile App
+91756,2024-03-03,2256,Shipped,Online
+91757,2024-08-12,2445,Cancelled,Mobile App
+91758,2024-05-11,2373,Pending,Store
+91759,2025-08-02,2209,Shipped,Mobile App
+91760,2024-11-14,1630,Shipped,Store
+91761,2025-09-20,2972,Pending,Mobile App
+91762,2025-07-09,1539,Pending,Mobile App
+91763,2024-12-07,1184,Completed,ONLINE
+91764,2025-12-23,1981,Completed,Store
+91765,2025-07-27,2996,Returned,Mobile App
+91766,2024-05-28,2345,Shipped,Online
+91767,2025-03-07,1816,Completed,online
+91768,2024-12-07,2669,Completed,In-Store
+91769,2024-05-27,3434,Completed,Mobile App
+91770,2024-08-28,1315,COMPLETED,Mobile App
+91771,2025-07-11,1059,Returned,Mobile App
+91772,2025-06-21,1673,Shipped,Store
+91773,2025-04-13,3117,Completed,Mobile App
+91774,2024-02-16,2286,Completed,Online
+91775,2024-09-08,2284,Returned,Online
+91776,2025-09-26,2402,Completed,Store
+91777,2024-05-09,2485,Completed,Online
+91778,2024-03-22,123,Completed,Marketplace
+91779,2024-08-27,1412,Completed,Online
+91780,2025-04-15,1625,Completed ,Mobile App
+91781,2025-02-23,1566,Completed,Online
+91782,2024-05-07,,Pending,Online
+91783,2025-08-22,1944,cancelled,Online
+91784,2024-11-13,99999,Completed,App
+91785,2025-02-27,1128,Completed,Store
+91786,2024-12-08,3370,Completed,Marketplace
+91787,2025-04-12,2825,Completed,Online
+91788,2025-10-15,1068,completed,Online
+91789,2024-11-19,1658,Completed,Mobile App
+91790,2025-10-10,1578,Completed,Online
+91791,2024-09-18,1253,Completed,Online
+91792,2025-01-11,2369,Completed,Mobile App
+91793,2024-03-03,3404,Completed,Online
+91794,2024-12-05,1397,Pending,Online
+91795,2025-06-28,1959,Completed,Mobile App
+91796,2025-04-10,,Completed,Online
+91797,2025-07-26,1447,Completed,App
+91798,2025-05-11,2258,Cancelled,Marketplace
+91799,2025-10-02,2562,Shipped,Online
+91800,2025-12-25,2553,Completed,Online
+91801,2024-03-14,1104,Completed,Mobile App
+91802,2025-12-15,1574,Completed,Online
+92182,2025-10-17,2118,Pending,Online
+91803,2025-12-30,2352,Completed,Store
+91804,2025-09-26,2731,Returned,Marketplace
+91805,2025-09-10,2207,Completed,Online
+91806,2025-05-20,1597,Completed,Online
+91807,2024-06-08,3478,Completed,Store
+91808,2025-10-12,3184,Completed,MOBILE APP
+91809,2025-07-22,,Completed,Online
+91810,2025-10-18,2831,Completed,Store
+91811,2025-10-13,3169,Shipped,Mobile App
+91812,2025-04-01,2915,Completed,Store
+90400,2024-06-12,3353,Completed,Store
+91813,2025-02-16,2694,Shipped,App
+91814,2025-08-08,1996,Completed,Marketplace
+91815,2024-07-22,2753,Completed,Store
+91816,2024-11-18,2053,Return,Online
+91817,2024-10-12,1960,Completed,Online
+91818,2024-12-18,1856,Cancelled,Store
+91819,2025-01-21,1847,Completed,Online
+91820,2024-08-19,1310,Completed,Store
+91821,2025-11-28,1085,Completed,Mobile App
+91822,2024-07-02,2764,Completed,Mobile App
+91823,2025-10-09,3491,Completed,Marketplace
+91824,2025-09-08,3391,Completed,Mobile App
+91825,2025-05-23,3234,Completed,Mobile App
+91826,2024-02-29,2662,completed,Marketplace
+91827,2024-07-01,1306,Completed,Online
+91828,2025-07-31,1225,Pending,Marketplace
+91829,2025-12-21,3026,Completed,Online
+91830,2025-11-25,2751,Pending,Online
+91831,2025-12-25,3431,Completed,Online
+91832,2024-07-11,1237,Completed,Market Place
+91833,2025-12-24,1128,Completed,Store
+91834,2024-08-04,1687,Completed,Store
+91835,2025-06-21,3035,Cancelled,Store
+91836,2025-06-27,1062,Returned,Marketplace
+91837,2024-06-15,2738,Completed,Online
+91838,2024-09-13,1100,Returned,Mobile App
+91839,2025-03-04,2224,Completed,Online
+91840,2025-04-06,1426,Completed,Mobile App
+91841,2025-10-31,1676,Completed,Store
+91842,2024-07-15,1441,Pending,Mobile App
+91843,2025-11-25,,Completed,Mobile App
+91844,2025-01-25,1854,Returned,Marketplace
+91845,2025-05-12,2520,Completed,Online
+91846,2025-08-31,3008,Cancelled,Mobile App
+91847,2025-08-08,1342,Completed,Store
+91848,2025-05-06,2630,Completed,Store
+91849,2025-02-17,1158,Cancelled,Mobile App
+91850,2025-08-30,1996,Completed,Online
+91851,2024-06-01,2622,Completed,Online
+91852,2025-06-08,2961,Completed,Store
+91853,2025-03-10,3268,Completed,Online
+91854,2024-07-06,1366,Completed,Store
+91855,2024-12-09,1701,Completed,Online
+91856,2025-09-04,3425,Completed,MOBILE APP
+91857,2025-10-15,1076,Completed,Mobile App
+91858,2025-02-23,1795,Completed,Mobile App
+91859,2025-12-22,2867,Completed,Online
+91860,2024-09-22,2710,Shipped,Online
+91861,2025-06-18,2929,Completed,ONLINE
+91862,2024-05-28,1724,Completed,Marketplace
+91863,2024-12-02,2275,Completed,Mobile App
+91864,2025-12-06,2530,Cancelled,mobile app
+91865,2025-02-21,1318,Completed,Online
+91866,2024-07-08,99999,Returned,Marketplace
+91867,2025-11-05,1668,Cancelled,Mobile App
+91868,2024-07-23,2313,Completed,Store
+91869,2025-03-17,123,Completed,Online
+91870,2025-03-16,1375,COMPLETED,Marketplace
+91871,2025-10-14,2882,Completed,Mobile App
+91872,2025-12-01,3211,Returned,Mobile App
+91873,2024-07-29,2032,Completed,mobile app
+91874,2025-03-05,3017,Completed,Marketplace
+91875,2025-09-21,1389,Completed,Online
+91876,2025-12-29,3349,Completed,Online
+91877,2025-06-19,3124,Completed,Store
+91878,2024-09-05,3162,Returned,Store
+91879,2025-11-25,1717,Shipped,Mobile App
+91880,2024-02-10,1722,Completed,Marketplace
+91881,2025-09-08,2202,Completed,Store
+91882,2025-09-02,1188,Completed,Online
+91883,2025-07-25,2114,Complete,Online
+91884,2025-08-05,3276,Completed,Mobile App
+91885,2025-07-13,2537,Complete,ONLINE
+91886,2024-07-10,1566,Completed,Mobile App
+91887,2024-01-05,2472,Returned,Online
+91888,TBD,3144,Cancelled,Online
+91889,2025-04-13,2065,Completed,Online
+91890,2024-04-07,1956,Completed,Store
+91891,2024-01-10,3468,Completed,Mobile App
+91892,2025-12-16,2617,completed,Online
+91893,2025-08-14,3016,Completed,Store
+91894,2024-05-06,1384,Completed,Online
+91895,2025-03-31,3318,Completed,Mobile App
+91896,2025-08-02,2747,Completed,online
+91897,2025-08-05,1893,Completed,online
+91898,2024-06-04,3478,Returned,Mobile App
+91899,2025-09-12,2124,Completed,Online
+91900,2025-05-02,3452,Completed,Online 
+91901,2025-04-13,2571,Completed,Store
+91902,2024-12-23,2951,Cancelled,Mobile App
+91903,2024-02-04,3029,Completed,Online
+91904,2025-07-17,2034,Completed,Online
+91905,2025-10-14,1422,Complete,Store
+91906,2024-11-16,1947,Cancelled ,Online
+91907,2024-06-21,,Completed,Online
+91908,2024-05-10,1835,Pending,Online
+91909,2024-04-01,3040,Completed,Online
+91910,2025-09-11,3152,Completed,Online
+91911,2025-11-28,3330,completed,Online
+91912,2025-02-10,2160,Completed,Online
+91913,2025-04-14,1488,CANCELLED,Online
+91914,2025-01-12,1945,Returned,Online
+91915,2024-05-30,2322,Returned,Online
+91916,2025-05-27,3287,Completed,Online
+91917,2024-07-17,1127,Completed,Store
+91918,2025-01-01,2245,Completed,Online
+91919,2024-09-04,2408,Cancelled ,Online
+91920,2024-01-15,1392,Completed,Mobile App
+91921,2025-01-22,3211,Completed,Online
+91922,2024-07-16,3343,Completed,MARKETPLACE
+91923,2025-08-28,2940,Completed,App
+91924,2025-05-23,2623,Completed,Mobile App
+91925,2025-10-19,2894,Completed,Mobile App
+91926,2024-06-30,1651,Returned,App
+91927,2025-12-28,1324,Completed,Mobile App
+91928,2025-01-21,2483,Returned,Mobile App
+91929,2025-08-07,2962,Completed,Online
+91930,2025-02-07,3050,Returned,Online
+91931,2025-08-17,3031,Shipped,Store
+91932,2024-08-30,2884,Completed,Mobile App
+91933,2025-05-04,2808,Completed,Mobile App
+91934,2024-05-03,1503,Cancelled,Mobile App
+91935,2025-07-14,1004,Pending,Mobile App
+91936,2024-03-11,2395,Completed,mobile app
+91937,2025-06-24,1373,Shipped,Online
+91938,2025-03-17,2615,Completed,Online
+91939,2025-05-11,2394,Pending,Online
+91940,2025-05-08,2717,Pending,Online
+91941,2024-06-07,2442,Completed,Mobile App
+91942,2025-08-12,3291,Shipped,Store
+91943,2024-08-13,1230,Completed,Online
+91944,2024-08-29,3342,shipped,Mobile App
+91945,2025-12-13,1915,Completed,Online
+91946,2025-01-22,1251,Returned,Online
+91947,2025-03-12,2736,Completed,Mobile App
+91948,2025-06-26,1462,Completed,Website
+91949,2024-07-29,1187,Shipped,Store
+91950,2025-02-30,3101,Completed,Store
+91951,2024-04-25,1874,Completed,Online
+91952,2024-01-04,1496,Completed,Online
+91953,2025-08-31,2784,Completed,Store
+91954,2024-08-13,1126,Pending,Mobile App
+91955,2025-08-25,3091,Completed,Store
+91956,2025-01-13,2830,Completed,Online
+91957,2025-09-09,2025,Completed,Mobile App
+91958,2025-04-21,1819,completed,Mobile App
+91959,2025-07-11,2321,Completed,Mobile App
+91960,2025-09-23,1387,Pending,Website
+91961,2024-08-26,2017,Completed,Store
+91962,2025-08-02,3278,Cancelled,Mobile App
+91963,2024-01-11,1460,COMPLETED,Online
+91964,2025-06-14,1576,Completed,Mobile App
+91965,2024-06-05,3116,Shiped,ONLINE
+91966,2025-02-27,2597,Complete,Online
+91967,2024-03-28,3228,Shipped,Online
+91968,2025-04-29,1186,Pending,Online
+91969,2025-11-07,3065,Completed,Online
+91970,2025-02-08,2391,Completed,Mobile App
+91971,2025-07-25,2599,Completed,Online
+91972,2025-07-05,1353,Completed,Store
+91973,2024-11-27,2126,Completed,Mobile App
+91974,2025-05-25,1759,Completed,Store
+91975,2025-11-26,1028,CANCELLED,Mobile App
+91976,2025-07-20,1476,completed,Store
+91977,2024-01-16,1292,completed,Online
+91978,2024-11-04,3436,Completed,Marketplace
+91979,2025-03-02,2202,Completed,Online
+91980,2024-10-23,2905,Completed,Online
+91981,2025-05-01,2468,Completed,Mobile  App
+91982,2025-08-11,2744,Completed,Mobile App
+91983,2025-05-31,3140,Completed,Mobile App
+91984,2025-07-08,1620,Shipped,store
+91985,2025-11-17,1271,Completed,Mobile  App
+91986,2024-12-21,1410,Completed,Online
+90076,2024-03-18,2794,Completed,Store
+91987,2024-07-11,3253,Shipped,Online
+90288,2025-05-13,2494,Returned,Store
+91988,2024-04-26,1470,Cancelled,Online
+91989,2025-10-09,1876,Completed,Online
+90326,2025-11-02,2134,Completed,Online
+91990,2024-10-26,2713,Completed,Store
+91991,2025-08-30,3010,Completed,Online
+91992,2024-04-26,2944,Pending,Mobile App
+91993,2025-08-05,2263,Completed,Online
+91994,2025-06-23,2164,Completed,Online
+91995,2025-09-15,1997,Completed ,Store
+91996,2025-09-29,3070,Pending,Mobile App
+91997,2025-05-04,2217,COMPLETED,Store
+91998,2025-02-04,3480,Pending,Mobile App
+91999,2025-12-26,3500,Completed,Mobile App
+92000,,1348,Shipped,Store
+92001,2025-07-03,2123,Returned,Mobile App
+92002,2025-07-24,2424,Completed,online
+92003,2024-06-09,2075,Completed,Store
+92004,2024-06-08,1196,Completed,Store
+92005,2025-05-17,1748,Pending,Online
+92006,2024-12-12,2626,Pending,Store
+92007,2025-12-28,1852,Cancelled,Mobile App
+92008,2024-01-03,1099,Completed,Marketplace
+92009,2024-02-17,2437,Cancelled,Mobile App
+92010,2024-04-26,2670,Pending,Store
+92011,2025-06-02,1180,Completed,Mobile App
+92012,2024-02-15,1532,Pending,Mobile App
+92013,2025-12-01,3234,Completed,Mobile App
+92014,2025-02-09,2181,Completed,Online
+92015,2024-12-23,2929,Completed,Store
+92016,2025-04-29,1177,Completed,Store
+92017,2024-05-10,2263,Completed,Online
+92018,2024-01-03,1168,Completed,Mobile App
+92019,2025-03-12,2637,Completed,Marketplace
+92020,2025-04-18,3444,Completed,Mobile App
+92021,2025-11-02,1659,Completed,Marketplace
+92022,2025-03-18,3482,Completed,Online
+92023,2024-01-26,3212,Completed,online
+92024,2024-03-27,3445,Complete,Online
+92025,2024-03-03,3310,Completed,Store
+92026,2025-10-31,1855,Completed,Online
+92027,2025-10-14,1171,Shipped,Mobile App
+92028,2025-06-26,2389,Completed,Mobile App
+92029,2024-09-02,1443,Completed,Marketplace
+92030,00-00-0000,1726,Completed,Online
+92031,2024-12-14,1641,Completed,Store
+92032,2025-05-16,3368,Completed,Marketplace
+92033,,1904,Completed,Mobile App
+92034,2024-01-12,3245,Shipped,Store
+92035,2024-01-01,2056,Shipped,Online
+92036,2025-07-26,1805,Completed,Marketplace
+92037,2024-08-13,1654,Completed,Online
+92038,2025-11-21,1230,Completed,Marketplace
+92039,2025-04-28,2133,Completed,Mobile App
+92040,2025-11-04,,Completed,Mobile App
+92041,2025-12-03,3234,Completed,Online
+92042,2025-05-20,1538,Complete,Online
+92043,2025-05-04,3246,Shipped,Mobile App
+92044,2025-10-06,1091,Completed,Mobile App
+92045,2025-07-26,2253,Completed,Marketplace
+92046,2025-03-07,2136,Completed,Mobile App
+92047,2025-12-07,1286,Completed,Store
+92048,2024-07-08,1013,Completed,Store
+92049,2025-11-18,1458,Completed,Marketplace
+92050,2025-07-24,2995,Shipped,Mobile App
+91314,2024-12-31,1656,Shipped,Marketplace
+92051,00-00-0000,1408,Completed,Online
+92052,2025-05-23,2905,Completed ,Store
+92053,2024-02-07,3356,Completed,Online
+92054,2024-02-15,3134,Completed,Mobile App
+92055,2025-06-18,2829,Completed,Mobile App
+92056,2024-02-14,2805,Completed,Marketplace
+92057,2025-10-25,2563,Completed,Mobile App
+92058,2024-07-31,1479,Completed,Mobile App
+92059,2024-11-09,2256,Completed ,Online
+92060,2025-08-18,3156,Cancelled,Mobile App
+92061,2024-10-19,99999,Cancelled,Marketplace
+92062,2025-12-27,1531,Completed,Online
+92063,2025-10-28,1206,Shipped,Store
+92064,2024-08-01,3263,Pending,Online
+92065,2024-12-27,3092,Completed,Online
+92066,2025-12-11,1441,Pending,Store
+92067,2024-11-06,,Returned,Online
+92068,2024-06-02,1644,Completed,Mobile  App
+92069,2025-05-01,1917,Completed,Mobile App
+92070,2024-09-11,3139,Completed,Online
+92071,2024-05-25,3134,COMPLETED,Website
+92072,2025-09-24,2640,Completed,Online
+92073,2024-09-30,2539,Completed ,Online
+92074,2025-08-06,2550,Completed,ONLINE
+92075,2025-03-04,3166,Completed,Store
+92076,2024-10-30,1815,Completed,Mobile App
+92077,2025-10-13,1094,Cancelled,ONLINE
+92078,2024-10-30,3361,Completed,Mobile App
+92079,2025-08-16,1339,Completed,Marketplace
+92080,2025-11-23,2171,Completed,Online
+92081,2024-12-21,2713,Completed,Online
+92082,2025-10-31,3037,Completed,Store
+92083,2024-11-23,1431,Completed,Store
+92084,2025-06-15,1053,Completed,Online
+92085,2025-08-13,2201,Cancelled,Online
+92086,2025-03-12,2265,Complete,Mobile App
+91492,2024-06-25,3144,Complete,Mobile App
+92087,2025-12-24,3211,Completed,ONLINE
+92088,2024-06-11,2886,Completed,Mobile App
+92089,2025-04-10,2545,Shipped,Mobile App
+92090,2024-10-27,2523,Shipped,Online
+92091,2024-05-14,3160,Completed,MOBILE APP
+92092,2025-08-19,1528,Completed,ONLINE
+92093,2025-03-16,1808,COMPLETED,Online
+92094,2024-02-09,1121,SHIPPED ,In-Store
+92095,2024-11-11,2446,Returned,App
+92096,2025-04-25,1381,Completed,mobile app
+92097,2025-05-11,3027,Completed,Mobile App
+92098,2025-07-24,1402,Completed,Store
+92099,2024-10-21,2790,Completed,Online
+92100,2025-07-03,1153,Completed,Mobile App
+92101,2025-07-20,2802,Completed,Store
+92102,2024-03-15,2473,Completed,Mobile App
+92103,2024-07-25,2466,Returned,Online
+92104,2025-05-01,3117,Completed,Online
+90189,2025-05-17,2520,Pending,Store
+92105,2024-12-19,2733,Cancelled,Mobile App
+92106,2025-08-22,3183,Completed,Mobile App
+92107,2025-07-19,3247,Completed,Online 
+92108,2025-10-09,1613,Completed,Mobile App
+92109,2024-08-04,2536,Completed,Store
+92110,2024-01-18,2241,Pending,Store
+92111,2025-01-08,2701,Completed,Store
+92112,2024-10-10,1819,Completed,ONLINE
+92113,2025-08-09,1615,Shipped,Mobile App
+92114,2025-09-22,2129,Completed,Mobile App
+92115,2024-04-11,3163,Pending,MARKETPLACE
+92116,2024-10-03,2593,Complete,Mobile App
+92117,2025-10-23,1177,Completed,Online
+92118,2025-05-19,3372,Completed,Marketplace
+92119,2025-02-01,3247,Cancelled,Mobile App
+92120,2025-04-15,1038,Completed,Mobile App
+92121,2024-06-21,3218,Pending,Mobile App
+92122,2024-06-20,2367,Cancelled,Online
+92123,2025-10-22,2426,Completed ,Online
+92124,2025-12-13,2938,Complete,Online
+92125,2025-08-30,2882,Completed,Mobile App
+92126,2025-05-11,1059,Completed,Online
+92127,2024-07-08,1070,Completed,Online
+92128,2025-10-31,1094,Completed,Mobile App
+92129,2025-12-29,2846,Completed,Online
+92130,2024-05-17,2256,Completed,Mobile App
+92131,2025-01-01,2297,Completed,Marketplace
+92132,2024-08-13,1092,Completed,Online
+92133,2025-08-23,2495,Completed,Online
+92134,2024-02-20,2412,Completed,Online
+92135,2025-05-28,2681,Completed,Mobile App
+92136,2025-08-15,3361,Completed,Online
+92137,2025-11-23,1050,Completed,Marketplace
+92138,2025-08-09,1032,Completed,Mobile App
+92139,2025-09-05,2513,Completed,Store
+92140,2025-08-26,2268,Completed,Store
+92141,2024-11-18,2468,Completed,Store
+92142,2024-12-21,2622,COMPLETED,Online
+92143,2025-04-19,1950,Returned,In-Store
+92144,2025-09-20,3186,Pending,Online
+92145,2024-12-25,3437,completed,Marketplace
+92146,2025-07-08,2372,Cancelled,Marketplace
+92147,2025-05-06,2794,Pending,MOBILE APP
+92148,2025-07-28,1498,Returned,Online
+92149,2024-03-26,3162,Completed,Mobile App
+92150,2024-08-31,3193,Pending,Mobile App
+92151,2024-04-06,3040,Completed,ONLINE
+92152,2024-06-30,2744,Completed,Online
+92153,2024-03-06,2856,Completed,Online
+92154,2025-06-20,2743,completed,Online
+92155,2025-09-29,2883,Completed,Store
+92156,2025-02-03,1750,Completed,Online
+92157,2024-04-27,1386,Completed,Mobile App
+92158,2024-13-01,3025,Completed,Online
+92159,2025-10-30,2272,Cancelled,Store
+92160,2025-08-13,1132,Cancelled,Online
+92161,2025-08-06,2868,Completed,Store
+92162,2025-09-28,2431,Complete,Online
+92163,2025-01-27,2096,Completed,Online
+92164,2025-09-28,2484,Completed,Online
+92165,2025-12-21,3035,Completed ,Online
+92166,2025-05-06,1132,Completed,Online
+92167,2025-12-06,2389,Completed,Online
+92168,2024-08-03,2454,Completed,Online
+92169,2024-04-03,2493,Completed,online
+92170,2025-03-17,1625,Completed,Online
+92171,2024-12-06,2763,Completed ,App
+92172,2025-08-18,1739,completed,Store
+92173,2025-07-23,1244,Completed,Online
+92174,2025-03-14,1028,Completed,Mobile App
+92175,2025-07-02,2594,Completed,Store
+92176,2025-09-15,2492,Completed,Online
+92177,2025-11-30,2200,Completed,Mobile App
+92178,2025-02-30,3109,Completed,Mobile App
+92179,2024-10-29,1125,Completed,App
+92180,2025-11-07,2818,Completed,Store
+92181,2024-07-12,2742,Completed,Mobile App
+92182,2025-10-17,2118,Pending,Online
+92183,2024-10-22,2949,Completed,Store
+92184,2025-02-16,1581,Returned,Store
+92185,2025-04-17,1023,Completed,marketplace
+92186,2024-05-14,3360,Pending,Mobile App
+92187,2024-05-24,2111,Completed,Online
+92188,2024-03-25,2661,Pending,Online
+92189,2025-03-09,2126,Pending,Online
+92190,2024-03-20,1225,Completed,Mobile App
+92191,2025-08-17,2577,Completed,Online
+92192,2024-12-23,3477,Completed,online
+92193,2025-07-02,2681,Completed,Store
+92194,2024-03-16,2736,Completed,Store
+92195,2025-01-05,2259,Completed,Online
+92196,2024-12-10,1421,Shipped,Mobile App
+92197,2024-05-13,2904,COMPLETED,Store
+92198,2025-10-24,1699,Completed,Website
+92199,2024-09-19,2039,Completed,Store
+92200,2024-07-25,2875,Completed,App
+92201,2025-02-27,1529,Pending,Mobile App
+92202,2024-04-29,3150,Completed,App
+92203,2024-03-29,2026,Completed,Store
+92204,NULL,1454,Completed,Online
+92205,2024-05-02,2005,Cancelled,Store
+92206,2024-07-08,2908,Shipped,STORE
+92207,2025-02-17,1824,Pending,Store
+92208,2025-09-25,1793,Completed,Mobile App
+92209,2024-05-02,1164,Completed ,Online
+92210,2025-02-22,2605,Completed,mobile app
+92211,2025-06-28,2068,Completed,Online 
+92212,2025-07-30,1274,Completed,Online
+92213,2025-01-28,2724,Completed,Mobile App
+92214,2025-06-20,1087,Shipped,Marketplace
+92215,2024-04-29,2484,Shipped,Online
+92216,2024-10-18,1217,Completed,Online
+92217,2025-03-12,3465,Completed,Online
+92218,2024-11-10,3156,Completed,Mobile App
+92219,2025-01-02,1080,Returned,Online
+92220,2024-12-13,2411,Complete,MOBILE APP
+92221,2025-08-03,1519,Completed,Store
+92222,2025-01-27,2162,Completed,Online
+92223,2025-03-02,2981,Returned,Online
+92224,2025-01-24,2222,Shipped,Store
+92225,2025-09-24,1549,Completed,Marketplace
+92226,2025-08-13,1685,Completed,Online
+90293,2024-03-15,1883,Pending,Store
+92227,2025-07-04,1625,Completed,Marketplace
+92228,2024-10-04,3386,completed,Mobile App
+92229,2025-07-04,3100,Cancelled,Mobile App
+92230,2025-08-26,2377,Completed,Store
+92231,2024-10-22,2859,Completed,Mobile App
+92232,2025-12-15,1317,Completed,Mobile App
+92233,2025-10-04,3295,Completed,Mobile App
+92234,2025-12-07,1128,Completed,Marketplace
+92235,2024-04-31,2377,Completed,Mobile App
+92236,2025-06-07,2237,Completed,Online
+92237,2025-08-09,1826,Completed,Online 
+92238,2025-11-01,3410,Shipped,Online
+92239,2024-11-23,3469,Cancelled,Mobile  App
+92240,2025-02-06,1635,Completed,Online
+92241,2024-08-02,1264,Returned,Store
+92242,2024-05-27,2022,Complete,Online
+92243,2025-08-11,3183,Completed,Mobile App
+92244,2025-07-05,2805,Completed,Online
+92245,2025-01-07,1115,Completed ,Online
+92246,2024-06-02,2566,Shipped,Online
+92247,2025-10-04,3058,Completed,Mobile App
+92248,2024-01-17,1969,Completed,Online
+92249,2024-11-01,2729,completed,Mobile App
+92250,2024-12-08,1290,Completed,Marketplace
+92251,2025-12-04,2673,Completed,Mobile App
+92252,2025-04-06,1395,Shipped,Online
+92253,2024-02-10,,Completed,Online
+92254,2025-04-12,3244,Completed,Store
+92255,2025-12-08,2110,Completed,Store
+92256,2025-10-18,2033,Completed,Marketplace
+92257,2024-10-16,1019,returned,Marketplace
+92258,2025-08-21,2128,Returned,Store
+92259,2025-05-15,2199,completed,Marketplace
+92260,2024-10-17,3490,Completed,online
+92261,2025-12-20,1059,Complete,ONLINE
+92262,2025-07-14,3272,Returned,Online
+92263,2024-04-31,1336,Completed,Marketplace
+92264,2025-01-23,3264,Completed,Online
+92265,2025-02-13,2399,Shipped,Online
+92266,2025-02-10,1371,Completed,Store
+92267,2025-06-05,2478,Shipped,Online
+92268,2024-12-04,3369,Pending,Online
+92269,2024-08-07,3259,Returned,Mobile App
+92270,2024-10-02,3176,Shipped,Mobile App
+92271,2025-10-08,1194,Completed,App
+92272,2025-08-14,2102,Completed,Mobile App
+92273,2024-05-12,1292,Shipped,Mobile App
+92274,2024-01-09,1316,Completed,Online
+92275,2024-03-27,2466,Completed,Mobile App
+92276,2024-06-27,2767,Completed,Online
+92277,2025-11-26,3381,Completed,ONLINE
+92278,2024-10-02,3298,Completed,Mobile App
+92279,2025-04-15,3204,Pending,Mobile App
+92280,2025-12-21,2743,Completed,Store
+92281,2024-10-24,3272,Pending,online
+92282,2025-01-17,1707,Completed,Store
+92283,2024-09-13,2665,Completed,Online
+92284,2025-12-19,3415,Completed,MOBILE APP
+92285,2025-11-02,3143,Cancelled,Online
+92286,2024-04-31,1424,completed,Mobile App
+92287,2024-06-11,1853,Completed,Online
+92288,2024-11-16,2022,Completed,Online
+92289,2024-05-25,1830,Completed,Online
+92290,2025-01-23,1304,Complete,Online
+92291,2025-06-12,1924,Cancelled,Mobile App
+92292,2025-08-05,1423,Completed,Online
+92293,2025-11-07,1026,Completed,Online
+92294,2025-12-30,1944,Complete,Online
+92295,2024-07-13,2886, Pending,Online 
+92296,2025-02-26,3241,Completed,Online
+92297,2025-11-12,1182,Completed,Online
+92298,2024-03-19,2662,Completed,Mobile App
+92299,2024-06-23,1176,Completed,Mobile App
+92300,2025-10-24,2178,Completed,Online
+92301,2025-05-11,3141,Completed,App
+92302,2024-10-26,2685,Completed,Store
+92303,2025-10-13,3084,Completed,Online
+92304,2024-07-06,2107,Completed,Mobile App
+92305,2025-06-05,3428,Completed,Mobile App
+92306,2024-05-18,123,Completed,Online
+92307,2024-06-27,1336,Completed,Mobile App
+92308,2025-07-01,2945,Completed,Mobile App
+92309,2025-10-16,3334,Completed,Mobile  App
+92310,2025-04-18,3432,In Progress,Mobile App
+92311,2025-04-18,1253,Completed,Online 
+92312,2025-02-20,2937,Completed,Store
+92313,2025-08-13,2205,Returned,Mobile App
+92314,2025-11-03,1185,Completed,Market Place
+92315,2024-07-23,1198,Shipped,Mobile App
+92316,2024-11-13,1262,Completed,Online
+92317,2025-04-20,2919,Pending,Online
+92318,2024-12-15,3348,Completed,mobile app
+92319,2024-08-04,2942,Shipped,Marketplace
+92320,2025-12-05,2740,Completed,Store
+92321,2025-12-17,2940,Completed,Mobile App
+92322,2025-06-03,1675,Pending,Online
+92323,2024-07-27,1305,Completed,Mobile App
+92324,2025-03-26,3061,completed,Mobile App
+92325,2025-12-21,2914,Completed,Mobile App
+92326,2025-03-10,3092,Completed,Online
+92327,2024-09-10,1578,Completed,Marketplace
+92328,2024-07-15,1102,Completed,Store
+92329,2025-11-26,2452,COMPLETED,Mobile App
+92330,2024-07-14,2885,Completed,Store
+92331,2024-10-20,2951,Pending,ONLINE
+92332,2024-11-15,1714,Completed,Mobile App
+92333,2025-02-25,2790,Completed ,Online
+92334,2025-07-24,2500,Completed,Store
+92335,2025-12-23,2186,Complete,Store
+92336,2025-12-13,2508,Cancelled,Website
+92337,2024-01-29,3136,Completed,Online
+92338,2024-05-26,2661,Completed,Store
+92339,2025-10-20,2645,Completed,Online
+92340,2024-03-27,1180,Completed,MARKETPLACE
+92341,2025-08-28,2794,In Progress,store
+92342,2025-09-23,3265,Completed,Online
+92343,2024-01-12,1235,COMPLETED,Marketplace
+92344,2024-07-07,1086,Completed,Online
+92345,2025-05-28,2313,Completed,Mobile App
+92346,2024-09-06,3358,Completed,Store
+92347,2025-06-10,2357,Returned,Mobile App
+92348,2025-11-22,3300,COMPLETED,Online
+92349,2024-05-07,3468,Completed,ONLINE
+92350,2024-04-16,2623,Pending,Store
+92351,2025-03-02,2999,Completed,Online
+92352,2025-01-16,1633,Completed,Mobile App
+92353,2025-08-26,3408,Returned,Online
+92354,2024-05-31,2052,Completed,Mobile App
+92355,2024-05-29,2301,Complete,Website
+92356,2025-02-21,2075,Completed,Mobile App
+92357,2025-03-23,3412,Completed,Mobile App
+92358,2024-09-20,3173,Completed,Online
+92359,2024-08-06,2991,Completed,Online
+92360,2024-06-24,1972,Shipped,Online
+92361,2025-01-19,1548,completed,Store
+92362,2025-04-28,2471,COMPLETED,Online
+92363,2025-04-21,3335,Completed,Marketplace
+92364,2025-12-19,3458,Pending,Online
+92365,2025-03-07,2119,Cancelled,Mobile App
+92366,2024-01-22,1954,Completed ,Marketplace
+92367,2024-06-17,3380,COMPLETED,Mobile App
+92368,2025-01-03,2232,Cancelled,Online
+92369,2025-01-18,2756,Completed,Online 
+92370,2025-02-25,1984,Completed,Online
+92371,2025-09-11,1181,Completed,Online
+92372,2025-02-20,2016,Returned,Mobile App
+92373,2025-06-22,3057,Completed,Marketplace
+92374,2024-06-17,1609,Shipped,Online
+92375,2025-12-31,2970,Completed,Mobile App
+92376,2025-01-06,3170,COMPLETED,Online
+91203,2024-06-06,,Completed,online
+92377,2025-04-08,2916,Completed,Mobile App
+92378,2024-05-24,2699,Completed,App
+92379,2025-02-24,2740,Completed,Website
+92380,2024-09-13,2694,Completed,Mobile App
+92381,2025-12-15,1629,Completed,App
+92382,2024-05-22,2548,Completed,Store
+92383,2025-10-29,1223,Returned,Marketplace
+92384,2025-07-05,1389,Completed,Online
+92385,2024-08-03,2826,Cancelled,Mobile App
+92386,2025-08-24,2448,Shipped,Online
+92387,2024-12-10,2182,Cancelled,Store
+92388,2024-10-10,3262,Completed,Online
+92389,2024-10-26,1676,Completed,Marketplace
+92390,2025-07-02,2959,Completed,Online
+92391,2024-10-17,3122,Completed,Store
+92392,2025-04-15,1886,Completed,Marketplace
+92393,2025-11-07,3302,Completed,Mobile  App
+92394,2025-09-14,3114,Cancelled,mobile app
+92395,2025-09-11,1965,Completed,mobile app
+92396,2024-13-01,3210,Completed,Online
+92397,2024-09-12,2687,Completed,Marketplace
+92398,2024-08-21,2968,Cancelled,Store
+92399,2025-02-22,9999,Completed,Online
+92400,2025-12-09,2540,Completed,Marketplace
+92401,2025-05-02,2374,Completed,Online
+92402,2025-05-03,2315,Completed,MOBILE APP
+92403,2025-09-27,3414,Completed,Store
+92404,2025-03-15,1289,Completed,Online
+92405,2025-07-22,3178,Completed,Mobile App
+92406,2024-08-26,2163,Completed,Online
+92407,2024-10-29,2491,Completed,Store
+92408,2025-10-22,2353,Completed,Online
+92409,2025-09-07,3187,Shipped,Online
+92410,2025-03-14,2728,Completed,In-Store
+92411,2025-08-18,1456,Cancelled,Store
+92412,2024-01-20,3101,Completed,Online
+92413,2025-11-27,1236,Complete,STORE
+92414,2024-03-22,3258,PENDING,Online
+92415,2025-05-12,3454,Cancelled,Store
+92416,2024-10-28,2521,Pending,Online 
+92417,2025-06-29,3052,Completed,Mobile App
+92418,2024-02-11,3427,Completed,Mobile App
+92419,2024-02-09,1833,Completed,Marketplace
+92420,2024-12-03,1155,Completed,Online
+92421,2025-12-26,3075,Pending,Mobile App
+92422,2025-10-09,1058,Completed,Online
+92423,2025-11-07,1269,Cancelled,Mobile App
+92424,2024-03-06,2031,Completed,Online
+92425,2025-08-15,1759,Completed,Marketplace
+92426,2024-12-16,1090,Completed ,Mobile App
+92427,2025-02-04,2724,Completed,Online
+92428,2025-10-06,3221,Completed,Store
+92429,2024-08-25,2573,Returned,Mobile App
+92430,2024-01-13,3275,Completed,Mobile App
+92431,2025-03-26,1013,Shipped,Mobile App
+92432,2025-12-28,2575,Completed,Mobile App
+92433,2024-11-04,3350,Pending,MOBILE APP
+92434,2025-05-06,1733,Completed ,In-Store
+92435,2025-04-18,2883,Completed,Online
+92436,2024-06-05,1694,Pending,Online
+92437,2024-02-14,1164,Completed,App
+92438,2025-04-27,2354,Completed,Mobile App
+92439,2025-07-06,2731,Completed,Marketplace
+92440,2025-11-01,3473,Completed,Online
+92441,2025-03-04,2581,Complete,Mobile App
+92442,2025-01-04,3026,Completed,ONLINE
+92443,2025-06-03,1976,Completed,Mobile App
+92444,2024-11-01,2177,Completed ,Mobile App
+92445,2025-04-04,3045,completed,Mobile App
+92446,2024-09-10,1981,Completed,Marketplace
+92447,2025-08-04,3008,Completed,Online
+92448,2025-11-12,3198,Cancelled,Marketplace
+92449,2025-08-26,2958,Completed ,Online
+92450,2025-05-08,1121,Completed,MARKETPLACE
+92451,2024-04-24,1495,Shipped,Online
+92452,2024-06-21,3146,Cancelled,Mobile App
+92453,2025-07-24,3257,PENDING,Online
+92454,2025-07-10,2709,Completed,Marketplace
+92455,2025-12-14,2295,Completed,Online
+92456,2024-03-27,2980,Pending,Marketplace
+92457,2025-05-20,2420,Shipped,Online
+92458,2025-09-20,3099,Completed,Online
+92459,2024-11-03,2555,Completed,Website
+92460,2024-11-14,2314,Completed,Store
+92461,2024-11-14,1864,Completed,Mobile App
+92462,2025-06-02,1690,Completed,Online
+92463,2024-09-03,1613,Shipped,Mobile App
+92464,2025-11-23,2141,Pending,Mobile App
+92465,2025-12-16,2077,Completed,Online
+92466,2025-10-25,2054,Completed,Store
+92467,2025-09-20,1785,Cancelled,Store
+92468,2025-10-09,1561,Completed,Online
+92469,2024-10-29,1710,Completed,Store
+92470,2025-11-12,2264,Completed,Store
+92373,2025-06-22,3057,Completed,Marketplace
+92471,2025-12-25,2463,Completed,Marketplace
+92472,2025-11-04,1184,Completed,Mobile App
+92473,2025-06-07,2910,Completed,Store
+92474,2025-10-15,3406,Completed,Mobile App
+92475,2024-12-13,2307,Completed,Store
+92476,2025-12-20,1336,Cancelled,Marketplace
+92477,2024-04-05,1008,Completed,Store
+92478,2025-02-25,1690,COMPLETED,Store
+92479,2025-10-22,1394,Cancelled,Online
+92480,2025-09-13,2796,Completed,Mobile App
+92481,2025-12-22,2418,Completed,Online 
+92482,2025-02-20,2061,COMPLETED,Mobile App
+92483,2024-08-27,1134,Returned,Mobile App
+92484,2025-02-24,2425,Completed,Store
+92485,2024-11-14,2191,Returned,Store
+92486,2025-08-28,2021,Completed,Mobile  App
+92487,2024-09-23,1838,Completed,Mobile App
+92488,2024-12-31,1796,Pending,Online
+92489,2025-01-26,2814,Completed,STORE
+92490,2024-09-22,1172,Completed,Mobile App
+92491,2024-05-13,3112,Completed,Mobile App
+92492,2024-04-07,3172,Completed,Website
+92493,2025-04-06,3500,Pending,Online
+92494,2025-10-05,1193,pending,MOBILE APP
+92495,2025-08-19,1329,Completed,Market Place
+92496,2025-01-29,2715,Completed,Mobile App
+92497,2024-11-28,3080,Completed,Store
+92498,2025-10-05,2436,Completed,Mobile App
+92499,2025-01-31,2787,Completed,MOBILE APP
+92500,2025-04-19,2348,Shipped,Online

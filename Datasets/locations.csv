@@ -1,0 +1,29 @@
+location_id,locality,city,state,region
+1,Model Town,Ludhiana,Punjab,North
+2,Sarabha Nagar,Ludhiana,Punjab,North
+3,Civil Lines,Ludhiana,Punjab,North
+12,Dwarka,New Delhi,Delhi,North
+4,Model Town,Jalandhar,Punjab,north
+5,Adarsh Nagar,Jalandhar,Punjab,North
+6,Ranjit Avenue,Amritsar,PUNJAB,North
+7,Lawrence Road,Amritsar,Punjab,North
+8,Sector 17,Chandigarh,Chandigarh,North
+9,Sector 35,Chandigarh,Chandigarh,NORTH
+2,Sarabha Nagar,Ludhiana,Punjab,North
+10,Connaught Place,New Delhi,Delhi,North
+11,Lajpat Nagar,New Delhi,Delhi,North
+12,Dwarka,New Delhi,Delhi,North
+13,Andheri West,Mumbai ,Maharashtra,West
+14,Bandra,Mumbai,Maharashtra,West
+19,Koramangala ,Bangalore,Karnataka,South
+15,Kothrud,Pune,Maharashtra,West
+16,Hinjewadi,Pune,Maharashtra,West
+17,Satellite,Ahmedabad,Gujarat,
+18,Malviya Nagar,Jaipur,Rajasthan,North
+19,Koramangala,Bengaluru,Karnataka,South
+20,Indiranagar,Bengaluru,Karnataka,South
+21, Whitefield ,Bengaluru,Karnataka,South
+22,Banjara Hills,Hyderabad,Telangana,South
+23,Madhapur,Hyderabad,Telangana,South
+24,T. Nagar,Chennai,Tamil Nadu,South
+25,Salt Lake,Kolkata,West Bengal,East
