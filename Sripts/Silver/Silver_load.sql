@@ -244,12 +244,12 @@ insert into silver.order_lines	(
 									and product_id is not null
 									and order_id  is not null
 									and t.quantity is not null 
-									and t.quantity ! = 0
-									and trim(replace(replace(t.quantity,char(13),''),char(10),''))  not like '%[^0-9]%'
+									and t.quantity <> 0
+									and trim(replace(replace(t.quantity,char(13),''),char(10),''))   not like '%[^0-9]%'
 									and t.unit_price is not null 
-									and trim(replace(replace(t.unit_price,char(13),''),char(10),''))  not like '%[^0-9]%'
-									and trim(t.unit_price) =   t.unit_price
-									and trim(replace(replace(t.discount_pct,char(13),''),char(10),''))  not like '%[^0-9]%'
+									and trim(replace(replace(t.unit_price,char(13),''),char(10),''))   not like '%[^0-9]%'
+									
+									and trim(replace(replace(t.discount_pct,char(13),''),char(10),''))   not like '%[^0-9]%'
 
 								)
 
