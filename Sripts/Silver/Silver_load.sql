@@ -1,3 +1,5 @@
+drop procedure if exists Silver_load
+go
 create procedure Silver_load as 
 begin  try 
 
@@ -134,12 +136,10 @@ insert into silver.products (
 							case
 								
 								when upper(trim(list_price)) like 'RS.%' then substring(upper(trim(list_price)),4,len(upper(trim(list_price))))
-								when upper(trim(list_price)) in ('','NULL','N/A') or (trim(list_price)) like '%[^1-9]%' then null
 								else trim(list_price)
 							end list_price,
 							case
 								when upper(trim(replace(replace(active_flag,char(13),''),char(10),''))) in ('1','Y','YES','TRUE') then 1
-								when upper(trim(replace(replace(active_flag,char(13),''),char(10),'')))in ('0','N','NO','FALSE') then 0
 								else null
 							end active_flag
 							from
@@ -149,7 +149,10 @@ insert into silver.products (
 								from bronze.products
 							)t
 							where t.rank = 1
-
+							and upper(trim(list_price)) not in ('','NULL','N/A')
+							and trim(list_price) not like '%[^1-9]%' 
+							and upper(trim(replace(replace(active_flag,char(13),''),char(10),''))) not in ('0','N','NO','FALSE') 
+							and trim(upper(trim(replace(replace(active_flag,char(13),''),char(10),'')))) != '' 
 							)
 
    
@@ -204,6 +207,7 @@ insert into Silver.orders(
 							where t.order_id is not null 
 							and t.rank = 1
 							and try_convert(date,replace(replace(trim(t.order_date),char(13),''),char(10),''),23) between '20240101' and '20251231'
+							and t.customer_id in (select customer_id from Silver.customers)
 						)
 
 
@@ -226,17 +230,8 @@ insert into silver.order_lines	(
 									t.order_id,
 									t.product_id,
 									trim(t.quantity) as quantity,
-									case
-										when t.unit_price is null 
-										     or t.unit_price like  '%[^0-9]%'
-										then null
-										else trim(t.unit_price)
-									end unit_price,
-									case 
-										when trim(replace(replace(t.discount_pct,char(13),''),char(10),'')) like '%[^0-9]%'
-										then null
-										else trim(replace(replace(t.discount_pct,char(13),''),char(10),''))
-									end discount_pct
+									trim(t.unit_price) as unit_price, 
+									trim(replace(replace(t.discount_pct,char(13),''),char(10),'')) as discount_pct
 									from (	
 										select 
 										*,
@@ -249,8 +244,13 @@ insert into silver.order_lines	(
 									and product_id is not null
 									and order_id  is not null
 									and t.quantity is not null 
-									and t.quantity ! = '0'
-									and t.quantity not like '%[a-z,A-Z]%'
+									and t.quantity ! = 0
+									and trim(replace(replace(t.quantity,char(13),''),char(10),''))  not like '%[^0-9]%'
+									and t.unit_price is not null 
+									and trim(replace(replace(t.unit_price,char(13),''),char(10),''))  not like '%[^0-9]%'
+									and trim(t.unit_price) =   t.unit_price
+									and trim(replace(replace(t.discount_pct,char(13),''),char(10),''))  not like '%[^0-9]%'
+
 								)
 
 
@@ -312,6 +312,7 @@ insert into Silver.payments (
  end try
  begin catch
  print'-----------------------ERROR----------------------'
+
  end catch
 
 
@@ -319,5 +320,6 @@ insert into Silver.payments (
 
 
 
-
- exec Silver_load
+ go
+ 
+  exec Silver_load
